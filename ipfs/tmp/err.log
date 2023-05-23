@@ -1,0 +1,1708 @@
+ 
+
+[2023-04-17 21:31:13] Main-Line-149-Exception:'list' object has no attribute 'split'
+ondenode:ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1NVFF1TWprdU1USTBMakUyT0E9PQ==
+
+[2023-04-17 21:31:13] Main-Line-149-Exception:'list' object has no attribute 'split'
+ondenode:ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01Ym0vNUxpYzU1eUI1Ym0vNWJlZTViaUNMVEUwTGpJNUxqRXlOQzR4TmpnPQ==
+
+[2023-04-17 21:31:53] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (441) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiMjA1MiIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImF3c2pwZWMyLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+
+
+[2023-04-17 21:31:53] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (441) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiMjA1MiIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImF3c2pwZWMyLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+
+
+[2023-04-17 21:31:59] SubConvert-Line-116-Exception: Expecting value: line 1 column 1 (char 0)
+onenode:vmess://YXV0bzoyNjQzZGMwZC1hMDY5LTM0M2UtYTAxMC1kNjdlYzYzNTg1NDRAMTY1LjE1NC4yNDYuMTAzOjgw
+
+
+[2023-04-17 21:31:59] SubConvert-Line-116-Exception: Expecting value: line 1 column 1 (char 0)
+onenode:vmess://YXV0bzoyNjQzZGMwZC1hMDY5LTM0M2UtYTAxMC1kNjdlYzYzNTg1NDRAMTY1LjE1NC4yNDYuMTAzOjgw
+
+
+[2023-04-17 21:32:36] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDE4IiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICI0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-17 21:32:36] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDE4IiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICI0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-18 10:42:19] Main-Line-547-Exception:Invalid base64-encoded string: number of data characters (277) cannot be 1 more than a multiple of 4
+ConT:ssr://Y21yZXMuc3RhbmRwcm8uY286NTYzOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_Z3JvdXA9VTFOU1VISnZkbWxrWlhJJnJlbWFya3M9OEotSHJmQ2ZoN0FnWDBOT1gtUzRyZVdidlMwLThKLUhyZkNmaDdCZlNFdGY2YWFaNXJpdiZvYmZzcGFyYW09JnByb3RvcGFyYW09TkRnME5qVTZURXhNYVhWcGRXbDFOemczT0RjNA
+
+[2023-04-18 14:24:46] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 272: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImEwZjE1M2Q4LWUzMmYtNDFmMy05YmNkLTA3M2Y1NzllMjI2NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnV5dm0uY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiJ8=
+
+
+[2023-04-18 16:19:15] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 272: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImEwZjE1M2Q4LWUzMmYtNDFmMy05YmNkLTA3M2Y1NzllMjI2NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnV5dm0uY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiJ8=
+
+
+[2023-04-18 16:19:15] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 272: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImEwZjE1M2Q4LWUzMmYtNDFmMy05YmNkLTA3M2Y1NzllMjI2NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnV5dm0uY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiJ8=
+
+
+[2023-04-18 17:13:53] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-18 19:12:15] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-18 19:12:15] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-18 20:13:26] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 144: invalid start byte
+onenode:vmess://eyJhZGQiOiAidGstMDAyLTAwMi54aWFveGlhb2J1amlkYW8ueHl6IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI3OWY0NWRjYy0wZjBiLTM3NjUtYmZkYS02YzcyNDZiYTQ0ZTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3hpYW9kYW8_ZWQ9MjA0OCIsICJwb3J0IjogMjA5NjAsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1N2Y4ZVx1NTZmZCAgNCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+
+[2023-04-18 22:17:08] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 144: invalid start byte
+onenode:vmess://eyJhZGQiOiAidGstMDAyLTAwMi54aWFveGlhb2J1amlkYW8ueHl6IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI3OWY0NWRjYy0wZjBiLTM3NjUtYmZkYS02YzcyNDZiYTQ0ZTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3hpYW9kYW8_ZWQ9MjA0OCIsICJwb3J0IjogMjA5NjAsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1N2Y4ZVx1NTZmZCAgNCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+
+[2023-04-18 22:17:08] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 144: invalid start byte
+onenode:vmess://eyJhZGQiOiAidGstMDAyLTAwMi54aWFveGlhb2J1amlkYW8ueHl6IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI3OWY0NWRjYy0wZjBiLTM3NjUtYmZkYS02YzcyNDZiYTQ0ZTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3hpYW9kYW8_ZWQ9MjA0OCIsICJwb3J0IjogMjA5NjAsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1N2Y4ZVx1NTZmZCAgNCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+
+[2023-04-18 23:34:34] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 272: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImEwZjE1M2Q4LWUzMmYtNDFmMy05YmNkLTA3M2Y1NzllMjI2NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnV5dm0uY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiJ8=
+
+
+[2023-04-19 01:11:07] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 272: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImEwZjE1M2Q4LWUzMmYtNDFmMy05YmNkLTA3M2Y1NzllMjI2NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnV5dm0uY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiJ8=
+
+
+[2023-04-19 01:11:07] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 272: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImEwZjE1M2Q4LWUzMmYtNDFmMy05YmNkLTA3M2Y1NzllMjI2NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnV5dm0uY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiJ8=
+
+
+[2023-04-19 04:10:35] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJhZGQiOiIxNzIuNjcuMTMuMTEiLCJwb3J0IjoiODg4MCIsImlkIjoiNTZhMjE4OGItMmFiNy00MDJjLWI5YjgtMzQ4NDdmZGYwOTU4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLnvo7lm71fMDQxNzk3NCIsImhvc3QiOiJsZy50cnVtcDIwMjMubmV0IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-19 05:13:28] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJhZGQiOiIxNzIuNjcuMTMuMTEiLCJwb3J0IjoiODg4MCIsImlkIjoiNTZhMjE4OGItMmFiNy00MDJjLWI5YjgtMzQ4NDdmZGYwOTU4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLnvo7lm71fMDQxNzk3NCIsImhvc3QiOiJsZy50cnVtcDIwMjMubmV0IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-19 05:13:28] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJhZGQiOiIxNzIuNjcuMTMuMTEiLCJwb3J0IjoiODg4MCIsImlkIjoiNTZhMjE4OGItMmFiNy00MDJjLWI5YjgtMzQ4NDdmZGYwOTU4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLnvo7lm71fMDQxNzk3NCIsImhvc3QiOiJsZy50cnVtcDIwMjMubmV0IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-19 06:37:04] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xb2 in position 318: invalid start byte
+onenode:vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh63wn4ewIEhvbmcgS29uZyAwNiBURzpAbm8uLi4iLA0KICAiYWRkIjogIjE3Mi42Ny4yMDQuMzIiLA0KICAicG9ydCI6ICIyMDg2IiwNCiAgImlkIjogIjlmMjdhODZmLTcxYmUtMzM5My05MGI1LTY1YjkwYWY1NmYyMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaGt0My1jZG4udGVuY2VudC5iZXN0IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@85.208.108.21:5500
+
+
+[2023-04-19 08:28:45] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-19 10:07:18] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-19 10:07:18] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-19 20:16:23] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 264: invalid start byte
+onenode:vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjE3IiwicG9ydCI6IjgwIiwiaWQiOiIxOGQ0NWRjOC02MmFhLTRhMDItOWMxNS1kOTkwNTA1OWUzYWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6IuW+t+WbvV8wNDE3MTkzIiwiaG9zdCI6Imdvb2RieWVmaWx0ZXJpbmcubWFzaHRvcGl0dWFuYmlwaS50ayIsInBhdGgiOiIvbWVoZGkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-19 22:14:39] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 264: invalid start byte
+onenode:vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjE3IiwicG9ydCI6IjgwIiwiaWQiOiIxOGQ0NWRjOC02MmFhLTRhMDItOWMxNS1kOTkwNTA1OWUzYWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6IuW+t+WbvV8wNDE3MTkzIiwiaG9zdCI6Imdvb2RieWVmaWx0ZXJpbmcubWFzaHRvcGl0dWFuYmlwaS50ayIsInBhdGgiOiIvbWVoZGkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-19 22:14:39] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 264: invalid start byte
+onenode:vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjE3IiwicG9ydCI6IjgwIiwiaWQiOiIxOGQ0NWRjOC02MmFhLTRhMDItOWMxNS1kOTkwNTA1OWUzYWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6IuW+t+WbvV8wNDE3MTkzIiwiaG9zdCI6Imdvb2RieWVmaWx0ZXJpbmcubWFzaHRvcGl0dWFuYmlwaS50ayIsInBhdGgiOiIvbWVoZGkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-20 08:52:28] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDIyIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-20 10:03:41] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDIyIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-20 10:03:41] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (401) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDIyIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJhMGYxNTNkOC1lMzJmLTQxZjMtOWJjZC0wNzNmNTc5ZTIyNjQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-20 16:57:11] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (681) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6xTRy0xMy4yMTQuNzAuMTQ2LTI1OS4uLiIsICJhZGQiOiAiYXdzc2cxMC1kYXRhLmFtYXpvbi1henVyZS5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNWUzNDg3NS1hNzdjLTQxNTYtOGJjOC1mODE1ZjIzNTkwNWEiLCAiaG9zdCI6ICJ0N3ouY3VwaWQuaXFpeWkuY29tIiwgInBhdGgiOiAiLyJ9vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTBhXHU2ZDc3XHU1ZTAyIFx1ODA1NFx1OTAxYSIsICJhZGQiOiAiMjIzLjE2Ny40MS4xMjUiLCAicG9ydCI6IDYzMDg4LCAiaWQiOiAiYjk2ZjllNWItN2IyYS0zYzAzLWIxYjMtMmU5MzIzNGY5MTA4IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ0dy1sb2FkLWJhbGFuY2VyLm15bjFkZXMuY29tIiwgInBhdGgiOiAiL211Z3VhIiwgInRscyI6ICJ0bHMifQ==
+
+
+[2023-04-20 19:12:00] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (681) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6xTRy0xMy4yMTQuNzAuMTQ2LTI1OS4uLiIsICJhZGQiOiAiYXdzc2cxMC1kYXRhLmFtYXpvbi1henVyZS5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNWUzNDg3NS1hNzdjLTQxNTYtOGJjOC1mODE1ZjIzNTkwNWEiLCAiaG9zdCI6ICJ0N3ouY3VwaWQuaXFpeWkuY29tIiwgInBhdGgiOiAiLyJ9vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTBhXHU2ZDc3XHU1ZTAyIFx1ODA1NFx1OTAxYSIsICJhZGQiOiAiMjIzLjE2Ny40MS4xMjUiLCAicG9ydCI6IDYzMDg4LCAiaWQiOiAiYjk2ZjllNWItN2IyYS0zYzAzLWIxYjMtMmU5MzIzNGY5MTA4IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ0dy1sb2FkLWJhbGFuY2VyLm15bjFkZXMuY29tIiwgInBhdGgiOiAiL211Z3VhIiwgInRscyI6ICJ0bHMifQ==
+
+
+[2023-04-20 19:12:00] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (681) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6xTRy0xMy4yMTQuNzAuMTQ2LTI1OS4uLiIsICJhZGQiOiAiYXdzc2cxMC1kYXRhLmFtYXpvbi1henVyZS5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNWUzNDg3NS1hNzdjLTQxNTYtOGJjOC1mODE1ZjIzNTkwNWEiLCAiaG9zdCI6ICJ0N3ouY3VwaWQuaXFpeWkuY29tIiwgInBhdGgiOiAiLyJ9vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTBhXHU2ZDc3XHU1ZTAyIFx1ODA1NFx1OTAxYSIsICJhZGQiOiAiMjIzLjE2Ny40MS4xMjUiLCAicG9ydCI6IDYzMDg4LCAiaWQiOiAiYjk2ZjllNWItN2IyYS0zYzAzLWIxYjMtMmU5MzIzNGY5MTA4IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ0dy1sb2FkLWJhbGFuY2VyLm15bjFkZXMuY29tIiwgInBhdGgiOiAiL211Z3VhIiwgInRscyI6ICJ0bHMifQ==
+
+
+[2023-04-21 04:33:21] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 234: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEphZGktNjg3MSIsICJhZGQiOiAibWFzay5mcmVlbGlrZS50ZWNoIiwgInBvcnQiOiA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMDU0MTU0YjktMTU0Zi00Mjk1LWZkMjItYjQ0MWFlZTgxNzRlIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJyMS5mcmVlbGlrZS50ZWNoIiwgInBhdGgiOiAiLyJ9vmess://eyJhZGQiOiAiam9pbi1iZWRlLnZtZXNzb3JnLmZ1biIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDk2NTU3ODUtMjZlOS00NWJjLThhYmItNjJhMjRlNGJiNDQxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdTlhNmNcdTY3NjVcdTg5N2ZcdTRlOWEgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+
+
+[2023-04-21 05:15:06] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 234: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEphZGktNjg3MSIsICJhZGQiOiAibWFzay5mcmVlbGlrZS50ZWNoIiwgInBvcnQiOiA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMDU0MTU0YjktMTU0Zi00Mjk1LWZkMjItYjQ0MWFlZTgxNzRlIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJyMS5mcmVlbGlrZS50ZWNoIiwgInBhdGgiOiAiLyJ9vmess://eyJhZGQiOiAiam9pbi1iZWRlLnZtZXNzb3JnLmZ1biIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDk2NTU3ODUtMjZlOS00NWJjLThhYmItNjJhMjRlNGJiNDQxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdTlhNmNcdTY3NjVcdTg5N2ZcdTRlOWEgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+
+
+[2023-04-21 05:15:06] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 234: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEphZGktNjg3MSIsICJhZGQiOiAibWFzay5mcmVlbGlrZS50ZWNoIiwgInBvcnQiOiA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMDU0MTU0YjktMTU0Zi00Mjk1LWZkMjItYjQ0MWFlZTgxNzRlIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJyMS5mcmVlbGlrZS50ZWNoIiwgInBhdGgiOiAiLyJ9vmess://eyJhZGQiOiAiam9pbi1iZWRlLnZtZXNzb3JnLmZ1biIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDk2NTU3ODUtMjZlOS00NWJjLThhYmItNjJhMjRlNGJiNDQxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdTlhNmNcdTY3NjVcdTg5N2ZcdTRlOWEgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+
+
+[2023-04-22 05:36:40] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTg2MTkiLCAiYWRkIjogInNoc2hjdWEuZm9zaS5oayIsICJwb3J0IjogNDgwNDAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjFiMDA4YTJmLTFjZjUtNDU1Mi1iN2NhLTUyOTgwZGY0YWY5YiIsICJzbmkiOiAiIiwgImhvc3QiOiAic2hzaGN1YS5mb3NpLmhrIiwgInBhdGgiOiAiL2ZseSJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-22 05:41:24] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 288: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0zMDY0IiwgImFkZCI6ICJvcGMtanAuc2hhcmVjZW50cmUub25saW5lIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsICJzbmkiOiAib3BjLWpwLnNoYXJlY2VudHJlLm9ubGluZSIsICJob3N0IjogIm9wYy1qcC5zaGFyZWNlbnRyZS5vbmxpbmUiLCAicGF0aCI6ICIvc2hpcmtlciJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-22 07:13:55] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTg2MTkiLCAiYWRkIjogInNoc2hjdWEuZm9zaS5oayIsICJwb3J0IjogNDgwNDAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjFiMDA4YTJmLTFjZjUtNDU1Mi1iN2NhLTUyOTgwZGY0YWY5YiIsICJzbmkiOiAiIiwgImhvc3QiOiAic2hzaGN1YS5mb3NpLmhrIiwgInBhdGgiOiAiL2ZseSJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-22 07:13:55] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTg2MTkiLCAiYWRkIjogInNoc2hjdWEuZm9zaS5oayIsICJwb3J0IjogNDgwNDAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjFiMDA4YTJmLTFjZjUtNDU1Mi1iN2NhLTUyOTgwZGY0YWY5YiIsICJzbmkiOiAiIiwgImhvc3QiOiAic2hzaGN1YS5mb3NpLmhrIiwgInBhdGgiOiAiL2ZseSJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-22 07:17:07] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 288: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0zMDY0IiwgImFkZCI6ICJvcGMtanAuc2hhcmVjZW50cmUub25saW5lIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsICJzbmkiOiAib3BjLWpwLnNoYXJlY2VudHJlLm9ubGluZSIsICJob3N0IjogIm9wYy1qcC5zaGFyZWNlbnRyZS5vbmxpbmUiLCAicGF0aCI6ICIvc2hpcmtlciJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-22 07:17:07] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 288: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0zMDY0IiwgImFkZCI6ICJvcGMtanAuc2hhcmVjZW50cmUub25saW5lIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsICJzbmkiOiAib3BjLWpwLnNoYXJlY2VudHJlLm9ubGluZSIsICJob3N0IjogIm9wYy1qcC5zaGFyZWNlbnRyZS5vbmxpbmUiLCAicGF0aCI6ICIvc2hpcmtlciJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-22 21:18:29] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0zMDg3IiwgImFkZCI6ICJqcDQubWF5YWEuY2YiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMWQzZDczZjMtMjQzYy00YjQ4LWIwYjktYjY5OTMxNGE1OTBjIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJqcDQubWF5YWEuY2YiLCAicGF0aCI6ICIvZHNhZHZjeHZjeCJ9vmess://eyJhZGQiOiAiMjMuMjI0LjE1LjE4MCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU2ZDFiXHU2NzQ5XHU3N2Y2IENvcGVyYXRpb24gQ29sb2N0aW9uXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIiwgInBvcnQiOiA1MDAwMiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogImd6enouOGJxeWF0by5tbCIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+
+
+[2023-04-22 22:13:58] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0zMDg3IiwgImFkZCI6ICJqcDQubWF5YWEuY2YiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMWQzZDczZjMtMjQzYy00YjQ4LWIwYjktYjY5OTMxNGE1OTBjIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJqcDQubWF5YWEuY2YiLCAicGF0aCI6ICIvZHNhZHZjeHZjeCJ9vmess://eyJhZGQiOiAiMjMuMjI0LjE1LjE4MCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU2ZDFiXHU2NzQ5XHU3N2Y2IENvcGVyYXRpb24gQ29sb2N0aW9uXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIiwgInBvcnQiOiA1MDAwMiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogImd6enouOGJxeWF0by5tbCIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+
+
+[2023-04-22 22:13:58] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0zMDg3IiwgImFkZCI6ICJqcDQubWF5YWEuY2YiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMWQzZDczZjMtMjQzYy00YjQ4LWIwYjktYjY5OTMxNGE1OTBjIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJqcDQubWF5YWEuY2YiLCAicGF0aCI6ICIvZHNhZHZjeHZjeCJ9vmess://eyJhZGQiOiAiMjMuMjI0LjE1LjE4MCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU2ZDFiXHU2NzQ5XHU3N2Y2IENvcGVyYXRpb24gQ29sb2N0aW9uXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIiwgInBvcnQiOiA1MDAwMiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogImd6enouOGJxeWF0by5tbCIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"192.168.0.0/16,"port":"10.0.0.0/8}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"10.0.0.0/8,"port":"172.16.0.0/12}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Unterminated string starting at: line 1 column 11 (char 10)
+{"server":"223.5.5.5}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"86.wowogg.cyou,"port":"52286,"uuid":"08103798-414e-32b6-8748-2507732d2c51,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"35d1eaf8-53e7-4c8b-92aa-d96a20854e3c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ssrsub.v01.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"cf.515188.xyz,"port":"80,"uuid":"35d1eaf8-53e7-4c8b-92aa-d96a20854e3c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf.515188.xyz,"ws-headers":"Host:ssrsub.v01.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"35d1eaf8-53e7-4c8b-92aa-d96a20854e3c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ssrsub.v02.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"cf.515188.xyz,"port":"80,"uuid":"35d1eaf8-53e7-4c8b-92aa-d96a20854e3c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf.515188.xyz,"ws-headers":"Host:ssrsub.v02.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"35d1eaf8-53e7-4c8b-92aa-d96a20854e3c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ssrsub.v03.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"cf.515188.xyz,"port":"80,"uuid":"35d1eaf8-53e7-4c8b-92aa-d96a20854e3c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf.515188.xyz,"ws-headers":"Host:ssrsub.v03.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:nl.sharecentrepro.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:hk2.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:sg.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:sg1.sharecentrepro.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:sg2.sharecentrepro.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:de1.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:uk1.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:hk-hytron.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ca.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:fr.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ny1.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:lv1.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:lv2.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:lv3.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:dp1.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:dp2.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:dp3.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"443,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:hk-hytron.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"443,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:lv1.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"443,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:lv3.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"25.v2-ray.cyou,"port":"23625,"uuid":"0dd19d20-ec86-3680-b256-87237bafa89e,"tls":"false,"vmess-aead":"false,"ws":"true,"ws-path":"/,"sni":"25.v2-ray.cyou,"ws-headers":"Host:25.v2-ray.cyou,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"172.67.140.193,"port":"80,"uuid":"2e496758-950e-4549-8842-d5eec98d9fde,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"172.67.140.193,"ws-headers":"Host:uk1.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"viettel1.4gviet.com,"port":"80,"uuid":"de672279-b96b-4108-9b37-d92765210428,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"4gviet.com,"sni":"viettel1.4gviet.com,"ws-headers":"Host:dl.kgvn.garenanow.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"cn-ar.dnspro.icu,"port":"41000,"uuid":"717e6001-c40f-3cba-8763-623661a53737,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/iso,"sni":"cn-ar.dnspro.icu,"ws-headers":"Host:cn-ar.dnspro.icu,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"suidao.vipxgyun.com,"port":"48001,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao.vipxgyun.com,"ws-headers":"Host:suidao.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 35 (char 34)
+{"server":"data-hk-v1.shwjfkw.cn,"port":"50207,"uuid":"b1478e24-4916-3abe-8f17-15931012ecbe,"tls":"false,"vmess-aead":"false,"ws":"true,"ws-path":"/hls/cctv5phd.m3u8,"sni":"data-hk-v1.shwjfkw.cn,"ws-headers":"Host:YTB-awkj,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"bnm4.cdn.node.a.tddns-ounk.com,"port":"50030,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"bnm4.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:bnm4.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 35 (char 34)
+{"server":"cmxuzhou.netflix6.com,"port":"36019,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 35 (char 34)
+{"server":"cmxuzhou.netflix6.com,"port":"36018,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 35 (char 34)
+{"server":"cmxuzhou.netflix6.com,"port":"36020,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 46 (char 45)
+{"server":"bga5c1.cdn.node.a.tddns-ounk.com,"port":"40340,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"bga5c1.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:bga5c1.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 46 (char 45)
+{"server":"bga5c1.cdn.node.a.tddns-ounk.com,"port":"40325,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"bga5c1.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:bga5c1.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"bnm4.cdn.node.a.tddns-ounk.com,"port":"50029,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"bnm4.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:bnm4.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"bnm4.cdn.node.a.tddns-ounk.com,"port":"50069,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"bnm4.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:bnm4.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"suidao2.vipxgyun.com,"port":"48010,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao2.vipxgyun.com,"ws-headers":"Host:suidao2.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"bnm4.cdn.node.a.tddns-ounk.com,"port":"50068,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"bnm4.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:bnm4.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"tw3.594888.xyz,"port":"31235,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/maohk3,"sni":"tw3.594888.xyz,"ws-headers":"Host:tw3.594888.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"165.154.243.130,"port":"80,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/adobe,"sni":"165.154.243.130,"ws-headers":"Host:165.154.243.130,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"165.154.253.74,"port":"80,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/adobe,"sni":"165.154.253.74,"ws-headers":"Host:165.154.253.74,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"tw4.594888.xyz,"port":"31235,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/maohk3,"sni":"tw4.594888.xyz,"ws-headers":"Host:tw4.594888.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"de2-vmess.greenssh.xyz,"port":"443,"uuid":"e5be6b53-3645-43df-a403-7b354f312bbd,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/vmess,"sni":"de2-vmess.greenssh.xyz,"ws-headers":"Host:de2-vmess.greenssh.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 37 (char 36)
+{"server":"mci.bamarambash.monster,"port":"443,"uuid":"8f74ec8a-971c-11ed-a8fc-0242ac120002,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/db698b16-d216-11ed-8e14-5ad705867cff,"sni":"mci.bamarambash.monster,"ws-headers":"Host:db698b16-d216-11ed-8e14-5ad705867cff.asmandll.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"suidao.vipxgyun.com,"port":"48011,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao.vipxgyun.com,"ws-headers":"Host:suidao.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"42.7.24.12,"port":"36016,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zz.shynia.top,"port":"47918,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/adobe,"sni":"zz.shynia.top,"ws-headers":"Host:zz.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"51.195.35.147,"port":"58812,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"uk1-vmess.greenssh.xyz,"port":"80,"uuid":"b5aafe8c-3527-4502-8add-9ca7417cfc88,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/vmess,"sni":"uk1-vmess.greenssh.xyz,"ws-headers":"Host:uk1-vmess.greenssh.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"n1681962783.aqdisrv.cn,"port":"443,"uuid":"3b479e82-ec0c-4ea7-add4-ab2c57d243c9,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"n1681962783.aqdisrv.cn,"ws-headers":"Host:n1681962783.aqdisrv.cn,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"hk2.netflix6.com,"port":"443,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/hls/us8.m3u8,"sni":"hk2.netflix6.com,"ws-headers":"Host:hk2.netflix6.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"4.vipxgyun.com,"port":"80,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"4.vipxgyun.com,"ws-headers":"Host:4.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"3.vipxgyun.com,"port":"80,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"3.vipxgyun.com,"ws-headers":"Host:3.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 31 (char 30)
+{"server":"adobe2.fmmmz1.com,"port":"80,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/adobe,"sni":"adobe2.fmmmz1.com,"ws-headers":"Host:adobe2.fmmmz1.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"1.vipxgyun.com,"port":"80,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"1.vipxgyun.com,"ws-headers":"Host:1.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"7.vipxgyun.com,"port":"80,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"7.vipxgyun.com,"ws-headers":"Host:7.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"2.vipxgyun.com,"port":"80,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"2.vipxgyun.com,"ws-headers":"Host:2.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"115.223.28.253,"port":"36010,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"115.223.28.253,"port":"36009,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"qszx.cdn.node.a.tddns-ounk.com,"port":"50152,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"qszx.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:qszx.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"qszx.cdn.node.a.tddns-ounk.com,"port":"50039,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"qszx.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:qszx.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"hbng.cdn.node.a.tddns-ounk.com,"port":"50026,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"hbng.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:hbng.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"jzygy.cdn.node.a.tddns-ounk.com,"port":"40240,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"jzygy.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:jzygy.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"hbng.cdn.node.a.tddns-ounk.com,"port":"50025,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"hbng.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:hbng.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"hbng.cdn.node.a.tddns-ounk.com,"port":"50024,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"hbng.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:hbng.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"qszx.cdn.node.a.tddns-ounk.com,"port":"50065,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"qszx.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:qszx.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"hbng.cdn.node.a.tddns-ounk.com,"port":"50054,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"hbng.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:hbng.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 46 (char 45)
+{"server":"blg768.cdn.node.a.tddns-ounk.com,"port":"40249,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"blg768.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:blg768.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"qszx.cdn.node.a.tddns-ounk.com,"port":"50120,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"qszx.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:qszx.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"qszx.cdn.node.a.tddns-ounk.com,"port":"50160,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"qszx.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:qszx.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a24.achenxty.top,"port":"11624,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a27.achenxty.top,"port":"11627,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a25.achenxty.top,"port":"11625,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a23.achenxty.top,"port":"11623,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a26.achenxty.top,"port":"11626,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zz.shynia.top,"port":"34673,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"zz.shynia.top,"ws-headers":"Host:zz.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 46 (char 45)
+{"server":"blg768.cdn.node.a.tddns-ounk.com,"port":"40248,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"blg768.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:blg768.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 46 (char 45)
+{"server":"blg768.cdn.node.a.tddns-ounk.com,"port":"40019,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"blg768.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:blg768.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"hbng.cdn.node.a.tddns-ounk.com,"port":"50055,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"hbng.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:hbng.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 39 (char 38)
+{"server":"d0cd89648587.sanfen004.me,"port":"16610,"uuid":"e594a27c-1c77-488c-9a04-e833ecc5f0f3,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"dc.xmrthnode.com,"port":"42304,"uuid":"61a06847-820f-3785-af90-506d3e988a12,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/th,"sni":"dc.xmrthnode.com,"ws-headers":"Host:10.5.96.3,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"rajasa.nirezzvpn.my.id,"port":"80,"uuid":"de815d15-dc94-4aa2-bb9b-207f88339601,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/vmessws,"sni":"rajasa.nirezzvpn.my.id,"ws-headers":"Host:rajasa.nirezzvpn.my.id,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"suidao.vipxgyun.com,"port":"48014,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao.vipxgyun.com,"ws-headers":"Host:suidao.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"jp.678889.xyz,"port":"10001,"uuid":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"jp.678889.xyz,"ws-headers":"Host:jp.678889.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"v3.erciyun.men,"port":"1011,"uuid":"edd2b1bb-e74b-4d0e-81c3-baff279de1a0,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/obb,"sni":"v3.erciyun.men,"ws-headers":"Host:v3.erciyun.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"jp10.678889.xyz,"port":"101,"uuid":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"jp10.678889.xyz,"ws-headers":"Host:jp10.678889.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"jp80.fee68414a14e.sanfen004.me,"port":"80,"uuid":"692bffe9-01b7-4e0b-aa44-bbba867d67e1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/zh-cn,"sni":"jp80.fee68414a14e.sanfen004.me,"ws-headers":"Host:jp80.fee68414a14e.sanfen004.me,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"42.7.24.12,"port":"36011,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a16.achenxty.top,"port":"11616,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"mhnb.cdn.node.a.tddns-ounk.com,"port":"50058,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"mhnb.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:mhnb.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a17.achenxty.top,"port":"11617,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a13.achenxty.top,"port":"11613,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a14.achenxty.top,"port":"11614,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a15.achenxty.top,"port":"11615,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"7a6rs.cdn.node.a.tddns-ounk.com,"port":"40041,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"7a6rs.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:7a6rs.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"7a6rs.cdn.node.a.tddns-ounk.com,"port":"40039,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"7a6rs.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:7a6rs.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"mhnb.cdn.node.a.tddns-ounk.com,"port":"50045,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"mhnb.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:mhnb.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"suidao2.vipxgyun.com,"port":"48002,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao2.vipxgyun.com,"ws-headers":"Host:suidao2.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"7a6rs.cdn.node.a.tddns-ounk.com,"port":"40187,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"7a6rs.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:7a6rs.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zz.shynia.top,"port":"47988,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"zz.shynia.top,"ws-headers":"Host:zz.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 44 (char 43)
+{"server":"mhnb.cdn.node.a.tddns-ounk.com,"port":"50046,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"mhnb.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:mhnb.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"hbct2.qq.com.qqcdnxb.com,"port":"18000,"uuid":"7bae1ccc-8091-4f26-b22a-14857e8fde3d,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"hbct2.qq.com.qqcdnxb.com,"port":"18000,"uuid":"7bae1ccc-8091-4f26-b22a-14857e8fde3d,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"suidao2.vipxgyun.com,"port":"48013,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao2.vipxgyun.com,"ws-headers":"Host:suidao2.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"42.7.24.12,"port":"36013,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"42.7.24.12,"port":"36012,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"hbct2.qq.com.qqcdnxb.com,"port":"18000,"uuid":"7bae1ccc-8091-4f26-b22a-14857e8fde3d,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"222.222.8.164,"port":"18000,"uuid":"7bae1ccc-8091-4f26-b22a-14857e8fde3d,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"hbct2.qq.com.qqcdnxb.com,"port":"18000,"uuid":"7bae1ccc-8091-4f26-b22a-14857e8fde3d,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"a4.achenxty.top,"port":"11604,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"a6.achenxty.top,"port":"11606,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"a5.achenxty.top,"port":"11605,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"a7.achenxty.top,"port":"11607,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"a3.achenxty.top,"port":"11603,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"zz2.shynia.top,"port":"48095,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/adobe,"sni":"zz2.shynia.top,"ws-headers":"Host:zz2.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"cdn.gcup.wiki,"port":"2053,"uuid":"da12affb-2953-4b35-9677-f85d9743d9c4,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/freegcup,"sni":"cdn.gcup.wiki,"ws-headers":"Host:kr.gcup.wiki,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"dc.xmrthnode.com,"port":"42054,"uuid":"61a06847-820f-3785-af90-506d3e988a12,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/th,"sni":"dc.xmrthnode.com,"ws-headers":"Host:10.5.96.3,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"156.245.8.248,"port":"49920,"uuid":"964bf499-9ec0-4378-92b6-87d8d861b2d0,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"ph1.netflix6.com,"port":"31235,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/maohk3,"sni":"ph1.netflix6.com,"ws-headers":"Host:ph1.netflix6.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"ro1.zwtg888.com,"port":"18898,"uuid":"6ed9f1c9-1337-45a9-bb6c-f4d46102b954,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/ro1,"sni":"ro1.zwtg888.com,"ws-headers":"Host:ro1.zwtg888.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"b9v6w.cdn.node.a.tddns-ounk.com,"port":"40049,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"b9v6w.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:b9v6w.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"b9v6w.cdn.node.a.tddns-ounk.com,"port":"40369,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"b9v6w.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:b9v6w.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"b9v6w.cdn.node.a.tddns-ounk.com,"port":"40045,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"b9v6w.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:b9v6w.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"b9v6w.cdn.node.a.tddns-ounk.com,"port":"40051,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"b9v6w.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:b9v6w.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"aasx2.cdn.node.a.tddns-ounk.com,"port":"50050,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"aasx2.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:aasx2.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"b9v6w.cdn.node.a.tddns-ounk.com,"port":"40047,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"b9v6w.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:b9v6w.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"b9v6w.cdn.node.a.tddns-ounk.com,"port":"40368,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"b9v6w.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:b9v6w.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"aasx2.cdn.node.a.tddns-ounk.com,"port":"50018,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"aasx2.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:aasx2.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"aasx2.cdn.node.a.tddns-ounk.com,"port":"50051,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"aasx2.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:aasx2.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"a8.achenxty.top,"port":"11608,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"a9.achenxty.top,"port":"11609,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"suidao.vipxgyun.com,"port":"48016,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao.vipxgyun.com,"ws-headers":"Host:suidao.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a11.achenxty.top,"port":"11611,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a10.achenxty.top,"port":"11610,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a12.achenxty.top,"port":"11612,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"suidao2.vipxgyun.com,"port":"48019,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao2.vipxgyun.com,"ws-headers":"Host:suidao2.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"b9v6w.cdn.node.a.tddns-ounk.com,"port":"40370,"uuid":"ff39aca0-ead2-3d2a-b4be-954ebac34e64,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/80b48db1-7a27-4d2b-a12b-009feb033b04.j.live001.m3u8,"sni":"b9v6w.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:b9v6w.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zz.shynia.top,"port":"47906,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/adobe,"sni":"zz.shynia.top,"ws-headers":"Host:zz.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"aasx2.cdn.node.a.tddns-ounk.com,"port":"50019,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"aasx2.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:aasx2.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"115.223.28.253,"port":"36008,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"115.223.28.253,"port":"36007,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"zz2.shynia.top,"port":"48025,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"zz2.shynia.top,"ws-headers":"Host:zz2.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"zz2.shynia.top,"port":"48035,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"zz2.shynia.top,"ws-headers":"Host:zz2.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"zz2.shynia.top,"port":"48005,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"zz2.shynia.top,"ws-headers":"Host:zz2.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"zz2.shynia.top,"port":"48003,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"zz2.shynia.top,"ws-headers":"Host:zz2.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"zz2.shynia.top,"port":"48001,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"zz2.shynia.top,"ws-headers":"Host:zz2.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"zz2.shynia.top,"port":"48015,"uuid":"c00bce9e-41da-3408-ae64-4273c1d8d8d6,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"zz2.shynia.top,"ws-headers":"Host:zz2.shynia.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"dc.xmrthnode.com,"port":"42041,"uuid":"61a06847-820f-3785-af90-506d3e988a12,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/th,"sni":"dc.xmrthnode.com,"ws-headers":"Host:10.5.96.3,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"dc.xmrthnode.com,"port":"42042,"uuid":"61a06847-820f-3785-af90-506d3e988a12,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/th,"sni":"dc.xmrthnode.com,"ws-headers":"Host:10.5.96.3,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"sg2.netflix6.com,"port":"443,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/hls/us8.m3u8,"sni":"sg2.netflix6.com,"ws-headers":"Host:sg2.netflix6.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"sg1.netflix6.com,"port":"443,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/hls/us8.m3u8,"sni":"sg1.netflix6.com,"ws-headers":"Host:sg1.netflix6.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"sg6.678889.xyz,"port":"10001,"uuid":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"sg6.678889.xyz,"ws-headers":"Host:sg6.678889.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"suidao.vipxgyun.com,"port":"48009,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao.vipxgyun.com,"ws-headers":"Host:suidao.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"steam.dnspro.icu,"port":"5000,"uuid":"717e6001-c40f-3cba-8763-623661a53737,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/iso,"sni":"steam.dnspro.icu,"ws-headers":"Host:steam.dnspro.icu,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"108.162.194.152,"port":"80,"uuid":"f2eef2bd-eba3-4999-efea-e2a35fa4c91c,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/blue,"sni":"108.162.194.152,"ws-headers":"Host:kr.vtcss.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"104.17.26.23,"port":"2096,"uuid":"76670c86-f837-44af-f485-a3f3b0861045,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/asdf,"sni":"104.17.26.23,"ws-headers":"Host:wrxi.ga,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"172.67.190.181,"port":"443,"uuid":"764e1a95-b4d7-42d8-9f12-335a00764278,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/blue,"sni":"172.67.190.181,"ws-headers":"Host:kr.vtcss.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"42.7.24.12,"port":"36014,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a19.achenxty.top,"port":"11619,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a20.achenxty.top,"port":"11620,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a22.achenxty.top,"port":"11622,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a18.achenxty.top,"port":"11618,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a21.achenxty.top,"port":"11621,"uuid":"abfe3178-3f19-32cd-95b2-5ad2dd39bce6,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"42.7.24.12,"port":"36015,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"suidao2.vipxgyun.com,"port":"48004,"uuid":"bfd92553-e7c0-35c2-9200-8160938f6209,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/ny,"sni":"suidao2.vipxgyun.com,"ws-headers":"Host:suidao2.vipxgyun.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"ggsd5.cdn.node.a.tddns-ounk.com,"port":"50163,"uuid":"9288e85f-9b18-3e89-bd66-221acdafbd1a,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/009c250b-54f5-43a8-8b18-dccbb5d8c66a.y.live01.m3u8,"sni":"ggsd5.cdn.node.a.tddns-ounk.com,"ws-headers":"Host:ggsd5.cdn.node.a.tddns-ounk.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"45.131.248.209,"port":"39204,"uuid":"abc46ea0-d7c1-418c-c81b-0efff804070b,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"45.131.248.209,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"140.99.59.254,"port":"55512,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"38.54.247.120,"port":"54405,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"108.186.5.10,"port":"59010,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"38.63.0.93,"port":"47002,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"38.54.250.55,"port":"51431,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"137.175.18.89,"port":"42002,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"us2.netflix6.com,"port":"443,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/hls/us8.m3u8,"sni":"us2.netflix6.com,"ws-headers":"Host:us2.netflix6.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"107.148.195.21,"port":"50014,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"23.224.15.180,"port":"50002,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"us3.netflix6.com,"port":"31235,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/maohk3,"sni":"us3.netflix6.com,"ws-headers":"Host:us3.netflix6.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"us4.netflix6.com,"port":"31235,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/maohk3,"sni":"us4.netflix6.com,"ws-headers":"Host:us4.netflix6.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"us1.netflix6.com,"port":"443,"uuid":"8281ef00-51d7-3218-900e-383afb298521,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/hls/us8.m3u8,"sni":"us1.netflix6.com,"ws-headers":"Host:us1.netflix6.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"172.247.67.22,"port":"42940,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"41804,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40063,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40069,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"41801,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40077,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 25 (char 24)
+{"server":"sz.cny.page,"port":"11536,"cipher":"aes-128-gcm,"password":"2cfc4c58-88cb-4e00-9977-ef0a37559a22,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"assets.flareai.site,"port":"15343,"cipher":"chacha20-ietf-poly1305,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10010,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"tw2.linghun3.xyz,"port":"40005,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"tw1.linghun3.xyz,"port":"40004,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"cdn.alibaba-kunlun.com,"port":"14107,"cipher":"aes-128-gcm,"password":"ed53251d-83eb-43fa-9439-b1bc45bf7ca3,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"api-wx-4.rancho.gay,"port":"50110,"cipher":"chacha20-ietf-poly1305,"password":"b6bf8f12-72d8-470e-9bea-95457fd24949,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"api-a-asia-2.mcqqn.com,"port":"61006,"cipher":"chacha20-ietf-poly1305,"password":"b6bf8f12-72d8-470e-9bea-95457fd24949,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40067,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"assets.flareai.store,"port":"15743,"cipher":"chacha20-ietf-poly1305,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40070,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"cdn.alibaba-kunlun.com,"port":"14111,"cipher":"aes-128-gcm,"password":"ed53251d-83eb-43fa-9439-b1bc45bf7ca3,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40073,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10011,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"33907,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"assets.flareai.store,"port":"15143,"cipher":"chacha20-ietf-poly1305,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"uk1.linghun3.xyz,"port":"40062,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27811,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 25 (char 24)
+{"server":"sz.cny.page,"port":"25984,"cipher":"aes-128-gcm,"password":"2cfc4c58-88cb-4e00-9977-ef0a37559a22,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"catlog.flareai.science,"port":"15543,"cipher":"chacha20-ietf-poly1305,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"assets.flareai.site,"port":"15543,"cipher":"chacha20-ietf-poly1305,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 37 (char 36)
+{"server":"03.xn--8fr22cd4k1m9c.cn,"port":"44521,"cipher":"aes-128-gcm,"password":"de467768-8540-43de-88a4-7299a2bbeaec,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"api-wx-1.rancho.gay,"port":"50001,"cipher":"chacha20-ietf-poly1305,"password":"b6bf8f12-72d8-470e-9bea-95457fd24949,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gzdx.jcnode.top,"port":"40002,"cipher":"aes-256-gcm,"password":"bb0f1568-4cb3-490d-82c4-f654455cd07c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"zjcu.lele233.top,"port":"26111,"cipher":"chacha20-ietf-poly1305,"password":"fd6b031e-7b35-4716-8e53-060c755b5259,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10003,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10002,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 31 (char 30)
+{"server":"iepl.linghun3.xyz,"port":"39999,"cipher":"aes-256-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"hk4.linghun3.xyz,"port":"40003,"cipher":"aes-256-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"hk3.linghun3.xyz,"port":"40002,"cipher":"aes-256-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"hk1.linghun3.xyz,"port":"40000,"cipher":"aes-256-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27802,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27803,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"41808,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40068,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"gdcm.v-too.cloud,"port":"37532,"cipher":"chacha20-ietf-poly1305,"password":"08c0041e-105e-43b7-9627-b28e8f62fd00,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"gdcm.v-too.cloud,"port":"13437,"cipher":"chacha20-ietf-poly1305,"password":"08c0041e-105e-43b7-9627-b28e8f62fd00,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44012,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44011,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44005,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44010,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44009,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"assets.flareai.site,"port":"15443,"cipher":"chacha20-ietf-poly1305,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"catlog.flareai.science,"port":"15443,"cipher":"chacha20-ietf-poly1305,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 25 (char 24)
+{"server":"sz.cny.page,"port":"20957,"cipher":"aes-128-gcm,"password":"2cfc4c58-88cb-4e00-9977-ef0a37559a22,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 25 (char 24)
+{"server":"sz.cny.page,"port":"32366,"cipher":"aes-128-gcm,"password":"2cfc4c58-88cb-4e00-9977-ef0a37559a22,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10005,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27805,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"33903,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10004,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27804,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"jp2.linghun3.xyz,"port":"40012,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"jp1.linghun3.xyz,"port":"40010,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"cdn.alibaba-kunlun.com,"port":"14113,"cipher":"aes-128-gcm,"password":"ed53251d-83eb-43fa-9439-b1bc45bf7ca3,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gzdx.jcnode.top,"port":"22000,"cipher":"aes-256-gcm,"password":"89a2662f-1030-412f-bc31-7022d6aec338,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27812,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"33908,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10012,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"kr1.linghun3.xyz,"port":"40058,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 49 (char 48)
+{"server":"jfan9l3mxptv2qjj8pm1.xn--vur082k.cc,"port":"29360,"cipher":"aes-128-gcm,"password":"de467768-8540-43de-88a4-7299a2bbeaec,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"41803,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40071,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"41807,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40072,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40075,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40074,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 35 (char 34)
+{"server":"piniasg01.abbblog.xyz,"port":"37908,"cipher":"aes-128-gcm,"password":"6652a517-36da-4db4-9607-326c2db9aa70,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44007,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44003,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44008,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44006,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"33904,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10007,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27806,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27807,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"sg2.linghun3.xyz,"port":"40009,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10006,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"cdn.alibaba-kunlun.com,"port":"14114,"cipher":"aes-128-gcm,"password":"ed53251d-83eb-43fa-9439-b1bc45bf7ca3,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"sg1.linghun3.xyz,"port":"40008,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"41805,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"gy.linghun3.xyz,"port":"40065,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"hk2.linghun3.xyz,"port":"40001,"cipher":"aes-256-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"us3.linghun3.xyz,"port":"40013,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"us4.linghun3.xyz,"port":"40014,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"us2.linghun3.xyz,"port":"40007,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"us1.linghun3.xyz,"port":"40006,"cipher":"aes-128-gcm,"password":"c17a100c-c816-47a9-9cc6-ab06aacc11b7,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44014,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44015,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"zf.678889.xyz,"port":"44016,"cipher":"chacha20-ietf-poly1305,"password":"f4ef757a-3d0c-4126-b409-7675f7da8a6c,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"assets.flareai.store,"port":"15243,"cipher":"chacha20-ietf-poly1305,"password":"d5dd371c-11db-4cfb-b458-072f0fbd0e18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 32 (char 31)
+{"server":"00.node.vmssr.info,"port":"30002,"cipher":"chacha20-ietf-poly1305,"password":"b964e07b-2a54-480c-9ea0-ad5314a09507,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10009,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node01.gde52px1vwf5q6301fxn.catapi.management,"port":"10008,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node03.gde52px1vwf5q6301fxn.catapi.management,"port":"33905,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27809,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 59 (char 58)
+{"server":"node02.gde52px1vwf5q6301fxn.catapi.management,"port":"27808,"cipher":"chacha20-ietf-poly1305,"password":"728229b9-164e-45cb-bfb3-896b3a056a18,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"cdn.alibaba-kunlun.com,"port":"14112,"cipher":"aes-128-gcm,"password":"ed53251d-83eb-43fa-9439-b1bc45bf7ca3,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"azhj.xifasd.top,"port":"20767,"password":"c39d5e05-3d06-317e-b5ca-e2f71b661570,"sni":"ssl.ssl12.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"36821,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z262.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a006.zhuan99.men,"port":"10006,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"17629,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z258.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"21247,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x91.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"59021,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x100.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"33323,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z261.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"805tw.ljydw.top,"port":"443,"password":"6d9d7c53-3dcd-43bf-b60c-cac077817077,"sni":"805tw.ljydw.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"0309tw.ljydw.top,"port":"443,"password":"6d9d7c53-3dcd-43bf-b60c-cac077817077,"sni":"0309tw.ljydw.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"419tw.ljydw.top,"port":"443,"password":"6d9d7c53-3dcd-43bf-b60c-cac077817077,"sni":"419tw.ljydw.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"625tw.ljydw.top,"port":"80,"password":"6d9d7c53-3dcd-43bf-b60c-cac077817077,"sni":"625tw.ljydw.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 32 (char 31)
+{"server":"a1.veryfastnet1.tk,"port":"32894,"password":"HchlVCfnXB,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"25238,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z267.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"11215,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z268.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"hk19.microsoftjs.top,"port":"443,"password":"a21e5380-7711-4c6d-af44-e6210e5436af,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"16.162.44.241,"port":"443,"password":"be8b8f45-a290-4405-8699-ffeb07f3ee24,"sni":"16-163-218-240.nhost.00cdn.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a017.zhuan99.men,"port":"10017,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a001.zhuan99.men,"port":"10001,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20279,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z279.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20294,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x294.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a015.zhuan99.men,"port":"10015,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20278,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z278.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"152.70.74.66,"port":"443,"password":"d906afe5-7c3c-4ddc-aaa4-61c154a82e5e,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"195.15.243.26,"port":"443,"password":"4478,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"jp1117.ljydw.top,"port":"80,"password":"6d9d7c53-3dcd-43bf-b60c-cac077817077,"sni":"jp1117.ljydw.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20141,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z141.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"41767,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x114.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"54178,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x115.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20071,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x71.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20076,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x76.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20059,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x59.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a002.zhuan99.men,"port":"10002,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20298,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z298.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"45168,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z263.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"50355,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z264.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"cmzs.xibai6.top,"port":"819,"password":"c39d5e05-3d06-317e-b5ca-e2f71b661570,"sni":"ssl.ssl12.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a005.zhuan99.men,"port":"10005,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a003.zhuan99.men,"port":"10003,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 31 (char 30)
+{"server":"330hk02.ljydw.top,"port":"14433,"password":"6d9d7c53-3dcd-43bf-b60c-cac077817077,"sni":"330hk02.ljydw.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 31 (char 30)
+{"server":"330sg01.ljydw.top,"port":"14439,"password":"6d9d7c53-3dcd-43bf-b60c-cac077817077,"sni":"330sg01.ljydw.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"45.136.5.2,"port":"443,"password":"be8b8f45-a290-4405-8699-ffeb07f3ee24,"sni":"16-163-218-240.nhost.00cdn.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"azhj.xifasd.top,"port":"20762,"password":"c39d5e05-3d06-317e-b5ca-e2f71b661570,"sni":"ssl.ssl12.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"14846,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x46.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20296,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z296.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20295,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z295.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"20288,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"z288.hongkongnode.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a021.zhuan99.men,"port":"10021,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 30 (char 29)
+{"server":"a004.zhuan99.men,"port":"10004,"password":"2dbe179f-47b2-46e9-bf58-bd7f68c491a3,"sni":"zhu.99ton.men,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"16895,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x40.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"gg.xn--gmqa02ag57d.com,"port":"21970,"password":"bd1f1b56-631b-308e-9f48-ec4a1d97aeaf,"sni":"x41.flybar.work,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"163.123.192.34,"port":"443,"password":"be8b8f45-a290-4405-8699-ffeb07f3ee24,"sni":"16-163-218-240.nhost.00cdn.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"163.123.192.36,"port":"443,"password":"be8b8f45-a290-4405-8699-ffeb07f3ee24,"sni":"16-163-218-240.nhost.00cdn.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 20 (char 19)
+{"server":"♻️自动选择,"port":"🎯全球直连}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 41 (char 40)
+{"server":"公益机场:https://bit.ly/3BPeo5G,"port":"🇺🇲V001--US-付费推荐:suo.yt/ssrsub,"url":"http://www.gstatic.com/generate_204,"interval":"300}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"♻️自动选择}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"公益机场:https://bit.ly/3BPeo5G}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 20 (char 19)
+{"server":"REJECT,"port":"DIRECT}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"🎯全球直连}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:list index out of range
+GEOIP,CN,🎯全球直连
+
+[2023-04-22 22:20:22] SubConvert-Line-201-Exception:list index out of range
+FINAL,🐟漏网之鱼,dns-failed
+
+[2023-04-23 00:25:25] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEphZGktNTc2NyIsICJhZGQiOiAiZXU0X2dyYS43MzkyNTYueHl6IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImQ3NTAxZTdmLTJmNGQtNDJhNC05MjBmLWIwYWRjNjI4NWRlMCIsICJzbmkiOiAiIiwgImhvc3QiOiAiZXU0X2dyYS43MzkyNTYueHl6IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-23 01:13:46] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEphZGktNTc2NyIsICJhZGQiOiAiZXU0X2dyYS43MzkyNTYueHl6IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImQ3NTAxZTdmLTJmNGQtNDJhNC05MjBmLWIwYWRjNjI4NWRlMCIsICJzbmkiOiAiIiwgImhvc3QiOiAiZXU0X2dyYS43MzkyNTYueHl6IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-23 01:13:46] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 240: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEphZGktNTc2NyIsICJhZGQiOiAiZXU0X2dyYS43MzkyNTYueHl6IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImQ3NTAxZTdmLTJmNGQtNDJhNC05MjBmLWIwYWRjNjI4NWRlMCIsICJzbmkiOiAiIiwgImhvc3QiOiAiZXU0X2dyYS43MzkyNTYueHl6IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-23 12:47:18] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 255: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNElyYW4tMTU1NSIsICJhZGQiOiAiMTIwLjI0MC40OC4xOSIsICJwb3J0IjogMzgyMDEsICJhaWQiOiAxLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjc5Mzg2Njg1LTE2ZGEtMzI3Yy05ZTE0LWFhNmQ3MDJkODZiYyIsICJzbmkiOiAiIiwgImhvc3QiOiAiaW5ncmVzcy1pMS5vbmVib3g2Lm9yZyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-23 13:13:52] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 255: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNElyYW4tMTU1NSIsICJhZGQiOiAiMTIwLjI0MC40OC4xOSIsICJwb3J0IjogMzgyMDEsICJhaWQiOiAxLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjc5Mzg2Njg1LTE2ZGEtMzI3Yy05ZTE0LWFhNmQ3MDJkODZiYyIsICJzbmkiOiAiIiwgImhvc3QiOiAiaW5ncmVzcy1pMS5vbmVib3g2Lm9yZyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-23 13:13:52] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 255: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNElyYW4tMTU1NSIsICJhZGQiOiAiMTIwLjI0MC40OC4xOSIsICJwb3J0IjogMzgyMDEsICJhaWQiOiAxLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjc5Mzg2Njg1LTE2ZGEtMzI3Yy05ZTE0LWFhNmQ3MDJkODZiYyIsICJzbmkiOiAiIiwgImhvc3QiOiAiaW5ncmVzcy1pMS5vbmVib3g2Lm9yZyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-24 01:12:59] Main-Line-149-Exception:'list' object has no attribute 'split'
+ondenode:ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP3JlbWFya3M9OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240ZTU4SitIdkY5VVYxL2xqN0RtdWI0PQ==
+
+[2023-04-24 01:12:59] Main-Line-149-Exception:'list' object has no attribute 'split'
+ondenode:ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP3JlbWFya3M9NWJtLzVMaWM1NXlCNWJtLzViZWU1YmlDTFRFMExqSTVMakV5TkM0eE5qZz0=
+
+[2023-04-24 17:46:21] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 243: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS02MzA0IiwgImFkZCI6ICJ5ZXMuaWFtYWdvb2RtYW4ubmV0IiwgInBvcnQiOiAxNjYxNywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNTVjZjZhODctOWE2Yi00Y2Y1LThjZDgtNDcyMmI1OTUzYWY5IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJ5ZXMuaWFtYWdvb2RtYW4ubmV0IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-24 19:14:17] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 243: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS02MzA0IiwgImFkZCI6ICJ5ZXMuaWFtYWdvb2RtYW4ubmV0IiwgInBvcnQiOiAxNjYxNywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNTVjZjZhODctOWE2Yi00Y2Y1LThjZDgtNDcyMmI1OTUzYWY5IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJ5ZXMuaWFtYWdvb2RtYW4ubmV0IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-24 19:14:17] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 243: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS02MzA0IiwgImFkZCI6ICJ5ZXMuaWFtYWdvb2RtYW4ubmV0IiwgInBvcnQiOiAxNjYxNywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNTVjZjZhODctOWE2Yi00Y2Y1LThjZDgtNDcyMmI1OTUzYWY5IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJ5ZXMuaWFtYWdvb2RtYW4ubmV0IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 07:54:40] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 219: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS00MTYzIiwgImFkZCI6ICIxNjcuNzEuMjE2LjIyOSIsICJwb3J0IjogNDU2MTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImUxNWFiM2NiLTQyYzQtNDMxNi1iMjVmLWZjYmNhNzg4ODEzNSIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 07:55:15] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 237: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTE2ODAiLCAiYWRkIjogInVzMDIuMTcwMjAzLnh5eiIsICJwb3J0IjogNDM1NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjUxNWEzMjA0LWI4MzUtNGVlMC1iNmQzLTRlMjRhNjFlNWE3ZCIsICJzbmkiOiAiIiwgImhvc3QiOiAidXMwMi4xNzAyMDMueHl6IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 10:05:47] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 219: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS00MTYzIiwgImFkZCI6ICIxNjcuNzEuMjE2LjIyOSIsICJwb3J0IjogNDU2MTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImUxNWFiM2NiLTQyYzQtNDMxNi1iMjVmLWZjYmNhNzg4ODEzNSIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 10:05:47] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 219: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS00MTYzIiwgImFkZCI6ICIxNjcuNzEuMjE2LjIyOSIsICJwb3J0IjogNDU2MTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImUxNWFiM2NiLTQyYzQtNDMxNi1iMjVmLWZjYmNhNzg4ODEzNSIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 10:05:50] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 237: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTE2ODAiLCAiYWRkIjogInVzMDIuMTcwMjAzLnh5eiIsICJwb3J0IjogNDM1NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjUxNWEzMjA0LWI4MzUtNGVlMC1iNmQzLTRlMjRhNjFlNWE3ZCIsICJzbmkiOiAiIiwgImhvc3QiOiAidXMwMi4xNzAyMDMueHl6IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 10:05:50] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 237: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTE2ODAiLCAiYWRkIjogInVzMDIuMTcwMjAzLnh5eiIsICJwb3J0IjogNDM1NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjUxNWEzMjA0LWI4MzUtNGVlMC1iNmQzLTRlMjRhNjFlNWE3ZCIsICJzbmkiOiAiIiwgImhvc3QiOiAidXMwMi4xNzAyMDMueHl6IiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 18:08:00] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 258: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0xODg4IiwgImFkZCI6ICJkbC5maWxtaW5vLm9ubGluZSIsICJwb3J0IjogMjA5NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZmE1YTZmMGUtYWI5ZC00NWJmLWUzZWQtMTAyZGQ1ZmVlNmIyIiwgInNuaSI6ICJkbC5maWxtaW5vLm9ubGluZSIsICJob3N0IjogImRsLmZpbG1pbm8ub25saW5lIiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 19:12:41] SubConvert-Line-516-Exception:Expecting value: line 1 column 1 (char 0)
+onenode:
+j:trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@jgwcc1.gaox.ml:443/?sni=jgwcc1.gaox.ml#0
+
+[2023-04-25 19:12:41] SubConvert-Line-516-Exception:Expecting value: line 1 column 1 (char 0)
+onenode:
+j:trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@jgwcc1.gaox.ml:443/?sni=jgwcc1.gaox.ml#0
+
+[2023-04-25 19:12:41] SubConvert-Line-516-Exception:Expecting value: line 1 column 1 (char 0)
+onenode:
+j:trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@jgwcc1.gaox.ml:443/?sni=jgwcc1.gaox.ml#0
+
+[2023-04-25 19:12:47] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 258: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0xODg4IiwgImFkZCI6ICJkbC5maWxtaW5vLm9ubGluZSIsICJwb3J0IjogMjA5NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZmE1YTZmMGUtYWI5ZC00NWJmLWUzZWQtMTAyZGQ1ZmVlNmIyIiwgInNuaSI6ICJkbC5maWxtaW5vLm9ubGluZSIsICJob3N0IjogImRsLmZpbG1pbm8ub25saW5lIiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-25 19:12:47] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 258: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNFNhcmluYS0xODg4IiwgImFkZCI6ICJkbC5maWxtaW5vLm9ubGluZSIsICJwb3J0IjogMjA5NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZmE1YTZmMGUtYWI5ZC00NWJmLWUzZWQtMTAyZGQ1ZmVlNmIyIiwgInNuaSI6ICJkbC5maWxtaW5vLm9ubGluZSIsICJob3N0IjogImRsLmZpbG1pbm8ub25saW5lIiwgInBhdGgiOiAiLyJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-26 00:23:53] SubConvert-Line-116-Exception: Incorrect padding
+onenode:vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4esIFJlbGF5IPCfh7jwn4esIFNpbmdhcG9yZSAyNCBURzpAU1NSU1VCIiwNCiAgImFkZCI6ICJiOXY2dy5jZG4ubm9kZS5hLnRkZG5zLW91bmsuY29tIiwNCiAgInBvcnQiOiAiNDAwNDciLA0KICAiaWQiOiAiZmYzOWFjYTAtZWFkMi0zZDJhLWI0YmUtOTU0ZWJhYzM0ZTY0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJiOXY2dy5jZG4ubm9kZS5hLnRkZG5zLW91bmsuY29tIiwNCiAgInBhdGgiOiAiLzgwYjQ4ZGIxLTdhMjctNGQyYi1hMTJiLTAwOWZlYjAzM2IwNC5qLmxpdmUwMDEubTN1OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-26 03:27:04] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 198: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTY2MTIiLCAiYWRkIjogIjE5OC4yLjIwNS44OSIsICJwb3J0IjogIjUwMDQwIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-26 05:14:35] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 198: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTY2MTIiLCAiYWRkIjogIjE5OC4yLjIwNS44OSIsICJwb3J0IjogIjUwMDQwIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-26 05:14:35] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 198: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiNEZyZWVJcmFuLTY2MTIiLCAiYWRkIjogIjE5OC4yLjIwNS44OSIsICJwb3J0IjogIjUwMDQwIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-26 07:31:15] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIzOC42My4xOS45MSIsInBvcnQiOiI1NzAwNyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDIyMzE2IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-26 10:06:00] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIzOC42My4xOS45MSIsInBvcnQiOiI1NzAwNyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDIyMzE2IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-26 10:06:00] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIzOC42My4xOS45MSIsInBvcnQiOiI1NzAwNyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDIyMzE2IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-27 07:14:45] Main-Line-149-Exception:'list' object has no attribute 'split'
+ondenode:ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP3JlbWFya3M9OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240ZTU4SitIdkY5VVYxL2xqN0RtdWI0PQ==
+
+[2023-04-27 07:14:45] Main-Line-149-Exception:'list' object has no attribute 'split'
+ondenode:ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP3JlbWFya3M9NWJtLzVMaWM1NXlCNWJtLzViZWU1YmlDTFRFMExqSTVMakV5TkM0eE5qZz0=
+
+[2023-04-27 15:49:43] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (393) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gMiIsICJhZGQiOiAianAwNS5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMTExYzE2ZGQtMTExOC00NTdjLTlkZGYtNDUzOTk2Y2Q3OTIwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDA1LmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-27 16:17:48] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (393) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gMiIsICJhZGQiOiAianAwNS5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMTExYzE2ZGQtMTExOC00NTdjLTlkZGYtNDUzOTk2Y2Q3OTIwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDA1LmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-27 16:17:48] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (393) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gMiIsICJhZGQiOiAianAwNS5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMTExYzE2ZGQtMTExOC00NTdjLTlkZGYtNDUzOTk2Y2Q3OTIwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDA1LmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-28 05:35:10] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (393) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gMiIsICJhZGQiOiAianAwNS5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMTExYzE2ZGQtMTExOC00NTdjLTlkZGYtNDUzOTk2Y2Q3OTIwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDA1LmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-28 07:14:47] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (393) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gMiIsICJhZGQiOiAianAwNS5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMTExYzE2ZGQtMTExOC00NTdjLTlkZGYtNDUzOTk2Y2Q3OTIwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDA1LmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-28 07:14:47] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (393) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gMiIsICJhZGQiOiAianAwNS5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMTExYzE2ZGQtMTExOC00NTdjLTlkZGYtNDUzOTk2Y2Q3OTIwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDA1LmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+
+
+[2023-04-28 11:58:35] SubConvert-Line-116-Exception: Incorrect padding
+onenode:vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWhnuiIjOWwlOOAkOS7mOi0ueaOqOiNkO+8mmh0dHBzOi8vdjEubWsvdmlw44CRMjIiLA0KICAiYWRkIjogIjE1NC4xOTguMjI4LjUyIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjUxMmI1NmVhLTIzM2YtNDZhMS1iMDUzLWE3ZDA5NThhODk0NSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYWUzLnp3dGc4ODguY29tIiwNCiAgInBhdGgiOiAiL2FlMyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-28 15:50:58] SubConvert-Line-116-Exception: Incorrect padding
+onenode:vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbveOAkOS7mOi0ueaOqOiNkO+8mmh0dHBzOi8vdjEubWsvdmlw44CRMjgiLA0KICAiYWRkIjogIjE3Mi42Ni40My4xNDUiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI1OTJjMzcyOS00ZGI1LTRiYmItOTMxMC1mNjBiY2Q4OGNmOGMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVscy52dGNzcy50b3AiLA0KICAicGF0aCI6ICIvYmx1ZSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-28 15:51:48] Main-Line-547-Exception:Incorrect padding
+ConT:ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8_Z3JvdXA9VTFOU1VISnZkbWxrWlhJJnJlbWFya3M9OEotSHJfQ2ZoN1VnWDBwUVgtYVhwZWFjckEmb2Jmc3BhcmFtPVVGUXdPVXBUSmUtX3ZRJnByb3RvcGFyYW09VUZRd09VcFRKZS1fdlE
+
+[2023-04-28 15:51:55] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIxOTkuMTgwLjEwMy4yOCIsInBvcnQiOiI0OTk4OCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDIzMzI1IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-28 16:18:08] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIxOTkuMTgwLjEwMy4yOCIsInBvcnQiOiI0OTk4OCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDIzMzI1IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-28 16:18:08] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIxOTkuMTgwLjEwMy4yOCIsInBvcnQiOiI0OTk4OCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDIzMzI1IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-29 09:46:52] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 177: invalid start byte
+onenode:vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4ez8J+HsV9OTF/ojbflhbAiLCJhZGQiOiIxNTYuMjI1LjY3LjE2IiwicG9ydCI6NDU1MzMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9vmess://eyJhZGQiOiAiMTQyLjQuMTE0LjIyIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU1NzIzXHU0ZjU1XHU1ODVlUEVHIFRFQ0giLCAicG9ydCI6IDM0MDAyLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+
+
+[2023-04-29 10:04:50] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 177: invalid start byte
+onenode:vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4ez8J+HsV9OTF/ojbflhbAiLCJhZGQiOiIxNTYuMjI1LjY3LjE2IiwicG9ydCI6NDU1MzMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9vmess://eyJhZGQiOiAiMTQyLjQuMTE0LjIyIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU1NzIzXHU0ZjU1XHU1ODVlUEVHIFRFQ0giLCAicG9ydCI6IDM0MDAyLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+
+
+[2023-04-29 10:04:50] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 177: invalid start byte
+onenode:vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4ez8J+HsV9OTF/ojbflhbAiLCJhZGQiOiIxNTYuMjI1LjY3LjE2IiwicG9ydCI6NDU1MzMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9vmess://eyJhZGQiOiAiMTQyLjQuMTE0LjIyIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU1NzIzXHU0ZjU1XHU1ODVlUEVHIFRFQ0giLCAicG9ydCI6IDM0MDAyLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+
+
+[2023-04-29 18:11:49] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7jnvo7lm70wNSIsICJhZGQiOiAiM3UxczA1LmFiem9vbmVzLnh5eiIsICJwb3J0IjogIjM2NTA2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImZhNWY0M2Y4LTRhMzAtNDdiZC04ZDdiLWIwZGQ2MmEzNWJiNyIsICJzbmkiOiAidXMwNS5hYnBpbG90Lnh5eiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-29 18:12:01] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 231: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSDnvo7lm70uLi4iLCAiYWRkIjogImhheDIuZnJlZWFpci5ldS5vcmciLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYjE0MDJiNy0yYTE1LTQ5NzgtZWM3ZC1kYzE5ZDliNTU4NmQiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvaGF4MiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-29 19:14:26] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7jnvo7lm70wNSIsICJhZGQiOiAiM3UxczA1LmFiem9vbmVzLnh5eiIsICJwb3J0IjogIjM2NTA2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImZhNWY0M2Y4LTRhMzAtNDdiZC04ZDdiLWIwZGQ2MmEzNWJiNyIsICJzbmkiOiAidXMwNS5hYnBpbG90Lnh5eiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-29 19:14:26] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7jnvo7lm70wNSIsICJhZGQiOiAiM3UxczA1LmFiem9vbmVzLnh5eiIsICJwb3J0IjogIjM2NTA2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImZhNWY0M2Y4LTRhMzAtNDdiZC04ZDdiLWIwZGQ2MmEzNWJiNyIsICJzbmkiOiAidXMwNS5hYnBpbG90Lnh5eiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-29 19:14:27] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 231: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSDnvo7lm70uLi4iLCAiYWRkIjogImhheDIuZnJlZWFpci5ldS5vcmciLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYjE0MDJiNy0yYTE1LTQ5NzgtZWM3ZC1kYzE5ZDliNTU4NmQiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvaGF4MiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-29 19:14:27] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 231: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSDnvo7lm70uLi4iLCAiYWRkIjogImhheDIuZnJlZWFpci5ldS5vcmciLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYjE0MDJiNy0yYTE1LTQ5NzgtZWM3ZC1kYzE5ZDliNTU4NmQiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvaGF4MiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"192.168.0.0/16,"port":"10.0.0.0/8}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"10.0.0.0/8,"port":"172.16.0.0/12}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Unterminated string starting at: line 1 column 11 (char 10)
+{"server":"223.5.5.5}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"86.wowogg.cyou,"port":"52286,"uuid":"08103798-414e-32b6-8748-2507732d2c51,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"8080,"uuid":"e2952737-6f10-492b-9813-19131deb71b1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ssrsub.v01.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"r2wind.com,"port":"8080,"uuid":"e2952737-6f10-492b-9813-19131deb71b1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"r2wind.com,"ws-headers":"Host:ssrsub.v01.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"8080,"uuid":"e2952737-6f10-492b-9813-19131deb71b1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ssrsub.v02.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"r2wind.com,"port":"8080,"uuid":"e2952737-6f10-492b-9813-19131deb71b1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"r2wind.com,"ws-headers":"Host:ssrsub.v02.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"8080,"uuid":"e2952737-6f10-492b-9813-19131deb71b1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ssrsub.v03.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"r2wind.com,"port":"8080,"uuid":"e2952737-6f10-492b-9813-19131deb71b1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"r2wind.com,"ws-headers":"Host:ssrsub.v03.ssrsub.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ca.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:de1.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:hk2.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:hk-hytron.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:sg.ilovescp.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:uk1.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:ny1.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:lv1.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:lv2.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:lv3.sharecentrepro.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:dp1.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:dp2.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:dp3.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"80,"uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:dp4.scproxy.top,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 43 (char 42)
+{"server":"jp4.af49c4e4c2ef.sanfen004.me,"port":"443,"uuid":"c4868b8a-1f5c-4536-b191-d5429c2e14b7,"tls":"true,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"104.22.59.195,"port":"443,"uuid":"a1560b52-b580-4aad-b8cd-9cd2ec5264b4,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/vmessws,"sni":"104.22.59.195,"ws-headers":"Host:1.239000.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"cfcdn.sanfencdn.net,"port":"443,"uuid":"c4868b8a-1f5c-4536-b191-d5429c2e14b7,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/zh-cn,"sni":"cfcdn.sanfencdn.net,"ws-headers":"Host:us1.sanfencdn.net,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 20 (char 19)
+{"server":"♻️自动选择,"port":"🎯全球直连}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 41 (char 40)
+{"server":"公益机场:https://bit.ly/3BPeo5G,"port":"🇺🇲V001--US-付费推荐:suo.yt/ssrsub,"url":"http://www.gstatic.com/generate_204,"interval":"300}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"♻️自动选择}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"公益机场:https://bit.ly/3BPeo5G}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 20 (char 19)
+{"server":"REJECT,"port":"DIRECT}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"🎯全球直连}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:'type'
+{}
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:list index out of range
+GEOIP,CN,🎯全球直连
+
+[2023-04-29 22:16:02] SubConvert-Line-201-Exception:list index out of range
+FINAL,🐟漏网之鱼,dns-failed
+
+[2023-05-01 04:03:02] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7jnvo7lm70wNSIsICJhZGQiOiAiM3UxczA1LmFiem9vbmVzLnh5eiIsICJwb3J0IjogIjM2NTA2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjhlZTRmNzcxLTM0ZjAtNDMzNS04NzY1LWM0ZTQxOTU3MTE4MiIsICJzbmkiOiAidXMwNS5hYnBpbG90Lnh5eiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-05-01 05:12:18] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7jnvo7lm70wNSIsICJhZGQiOiAiM3UxczA1LmFiem9vbmVzLnh5eiIsICJwb3J0IjogIjM2NTA2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjhlZTRmNzcxLTM0ZjAtNDMzNS04NzY1LWM0ZTQxOTU3MTE4MiIsICJzbmkiOiAidXMwNS5hYnBpbG90Lnh5eiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-05-01 05:12:18] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 225: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7jnvo7lm70wNSIsICJhZGQiOiAiM3UxczA1LmFiem9vbmVzLnh5eiIsICJwb3J0IjogIjM2NTA2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjhlZTRmNzcxLTM0ZjAtNDMzNS04NzY1LWM0ZTQxOTU3MTE4MiIsICJzbmkiOiAidXMwNS5hYnBpbG90Lnh5eiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-05-02 04:09:40] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIxOTkuMTgwLjEwMy4yOCIsInBvcnQiOiI0OTk4OCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDI5ODA3IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsICJwb3J0IjogIjgwIiwgImlkIjogIjJkNWQ4YjljLThlYzQtNGEzNy1iNjEwLTc4ZTcxZTEzZWFlZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZHA0LnNjcHJveHkudG9wIiwgInBhdGgiOiAiL3NoaXJrZXIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+
+
+[2023-05-02 05:12:49] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIxOTkuMTgwLjEwMy4yOCIsInBvcnQiOiI0OTk4OCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDI5ODA3IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsICJwb3J0IjogIjgwIiwgImlkIjogIjJkNWQ4YjljLThlYzQtNGEzNy1iNjEwLTc4ZTcxZTEzZWFlZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZHA0LnNjcHJveHkudG9wIiwgInBhdGgiOiAiL3NoaXJrZXIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+
+
+[2023-05-02 05:12:49] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 225: invalid start byte
+onenode:vmess://eyJhZGQiOiIxOTkuMTgwLjEwMy4yOCIsInBvcnQiOiI0OTk4OCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDI5ODA3IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsICJwb3J0IjogIjgwIiwgImlkIjogIjJkNWQ4YjljLThlYzQtNGEzNy1iNjEwLTc4ZTcxZTEzZWFlZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZHA0LnNjcHJveHkudG9wIiwgInBhdGgiOiAiL3NoaXJrZXIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+
+
+[2023-05-03 01:04:54] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (409) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gNCIsICJhZGQiOiAianAwMy5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMWI1ZDYxNDUtMGI0OS00ZDBiLWE5YjYtMjI5NDMyMGFmYWM0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDAzLmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+
+
+[2023-05-03 01:05:06] Main-Line-547-Exception:Incorrect padding
+ConT:ssr://NTEuNzkuMjIyLjk5OjQ0MzpvcmlnaW46YWVzLTI1Ni1jdHI6dGxzMS4yX3RpY2tldF9hdXRoOllubHdZWE56WlhJeU1ESXdjWGRsY25SNS8_Z3JvdXA9VTFOU1VISnZkbWxrWlhJJnJlbWFya3M9OEotSHVQQ2ZoNndnWDFOSFgtYVdzT1dLb09XZG9RJm9iZnNwYXJhbT0mcHJvdG9wYXJhbT0
+
+[2023-05-03 01:13:44] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (409) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gNCIsICJhZGQiOiAianAwMy5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMWI1ZDYxNDUtMGI0OS00ZDBiLWE5YjYtMjI5NDMyMGFmYWM0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDAzLmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+
+
+[2023-05-03 01:13:44] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (409) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTc0NWVcdTUxNzhPcmFjbGUgQ29ycG9yYXRpb24gNCIsICJhZGQiOiAianAwMy5jY3R2dmlwLm1sIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMWI1ZDYxNDUtMGI0OS00ZDBiLWE5YjYtMjI5NDMyMGFmYWM0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcDAzLmNjdHZ2aXAubWwiLCAicGF0aCI6ICIvY2N0djEzLm0zdTg_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+
+
+[2023-05-03 07:25:07] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 297: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDE3IiwgImFkZCI6ICIyLmhhbGF6b29vbi5pciIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJiZGZiMjJjNi1jMzIyLTRkMTQtYmU0YS1lOTVjZmYyYmJlY2EiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIm9kZHMtbWFyY28tbmVsc29uLWdpZnRzLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL2FyZ28tdm1lc3M_ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJvZGRzLW1hcmNvLW5lbHNvbi1naWZ0cy50cnljbG91ZGZsYXJlLmNvbSIsICJhbHBuIjogIiJ9
+
+
+[2023-05-03 10:03:04] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 297: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDE3IiwgImFkZCI6ICIyLmhhbGF6b29vbi5pciIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJiZGZiMjJjNi1jMzIyLTRkMTQtYmU0YS1lOTVjZmYyYmJlY2EiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIm9kZHMtbWFyY28tbmVsc29uLWdpZnRzLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL2FyZ28tdm1lc3M_ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJvZGRzLW1hcmNvLW5lbHNvbi1naWZ0cy50cnljbG91ZGZsYXJlLmNvbSIsICJhbHBuIjogIiJ9
+
+
+[2023-05-03 10:03:04] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 297: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDE3IiwgImFkZCI6ICIyLmhhbGF6b29vbi5pciIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJiZGZiMjJjNi1jMzIyLTRkMTQtYmU0YS1lOTVjZmYyYmJlY2EiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIm9kZHMtbWFyY28tbmVsc29uLWdpZnRzLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL2FyZ28tdm1lc3M_ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJvZGRzLW1hcmNvLW5lbHNvbi1naWZ0cy50cnljbG91ZGZsYXJlLmNvbSIsICJhbHBuIjogIiJ9
