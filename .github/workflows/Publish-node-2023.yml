@@ -10,7 +10,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 1,5,8,11,14,17,19,21,23 * * *'
+    - cron: '0 1,8,11,14,17,20 * * *'
   workflow_dispatch:
 
 env:
@@ -141,7 +141,7 @@ jobs:
         uses: ad-m/github-push-action@master
         if: steps.diff.outputs.status == 'success' && !cancelled()
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GT_TOKEN }}
           branch: main
           #branch: ${{ github.ref }}
 
@@ -149,7 +149,7 @@ jobs:
         uses: Mattraks/delete-workflow-runs@main
         if: env.DELETE_ARTIFACTS == 'true'
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GT_TOKEN }}
           repository: ${{ github.repository }}
           retain_days: ${{ env.KEEP_DAY }}
           keep_minimum_runs: ${{ env.KEEP_MININUM_RUNS }}
