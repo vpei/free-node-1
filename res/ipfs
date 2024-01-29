@@ -1,120 +1,847 @@
-http://122.225.207.101:8080
-http://121.199.23.234:8080
-http://118.123.241.64:8080
-http://121.43.117.133:8080
-http://114.116.213.73:8080
-http://183.252.17.149:82
-http://124.251.110.220:8080
-http://47.100.226.144:8080
-http://114.55.27.202:8080
-http://13.209.76.237:8080
-http://118.123.241.59:8080
-http://120.77.28.114:8080
-http://47.242.155.153:8080
-http://115.159.191.183:8080
-http://101.33.117.172:8080
-http://112.5.37.69:8080
-http://47.98.60.237:8080
-http://192.9.135.148:8080
-http://13.209.21.164:8080
-http://45.79.29.100:8080
-http://18.119.13.203:8080
-http://18.219.148.224:8080
-http://209.188.18.138:8080
-http://35.86.217.82:8080
-http://13.68.194.140:8080
-http://134.119.183.229:8080
-http://154.53.41.189:8080
-http://18.209.43.135:8080
-http://52.138.101.234:8080
-http://47.97.219.47:8080
-http://185.58.226.12:8080
-http://138.201.186.122:8080
-http://54.202.229.242:8080
-http://104.131.131.82:8080
-http://5.135.198.176:8080
-http://66.70.141.80:8080
-http://137.74.131.10:8080
-http://159.65.42.150:8080
-http://134.119.183.230:8080
-http://100.20.219.42:8080
-http://27.54.250.144:8080
-http://198.211.104.50:8080
-http://144.217.220.213:8080
-http://137.74.188.193:8080
-http://144.217.84.123:8080
-http://5.135.198.177:8080
-http://165.227.164.94:8080
-http://120.48.50.147:8080
-http://193.233.202.54:8080
-http://139.59.73.210:8080
-http://142.93.239.100:8080
-http://185.130.47.68:8080
-http://167.172.151.220:8080
-http://88.99.105.146:8080
-http://163.172.138.25:8080
-http://20.121.1.184:8080
-http://31.220.58.224:8080
-http://134.209.59.38:8080
-http://34.93.190.47:8080
-http://185.136.156.19:8080
-http://137.74.188.196:8080
-http://46.253.45.22:8080
-http://51.15.201.107:8080
-http://209.209.40.237:8080
-http://154.53.36.30:8080
-http://165.232.136.58:8080
-http://134.122.126.13:8080
-http://13.37.100.135:8080
-http://216.48.179.180:8080
-http://143.244.156.12:8080
-http://194.233.90.214:8080
-http://51.210.52.82:8080
-http://35.245.253.195:8080
-https://gateway.pinata.cloud
-http://147.135.198.230:8080
-http://158.69.119.78:8080
-http://159.65.149.66:8080
-http://15.237.12.126:8080
-http://144.126.154.80:8080
-http://198.50.226.144:8080
-http://185.130.47.158:8080
-http://92.204.255.75:8080
-http://134.119.183.243:8080
-http://134.119.183.241:8080
-http://116.85.15.197:8080
-http://194.233.82.88:8080
-http://44.203.196.20:8080
-http://149.202.248.209:8080
-http://134.119.221.187:8080
-http://92.204.162.195:8080
-http://5.135.198.178:8080
-http://185.51.184.93:8080
-http://5.196.137.223:8080
-http://203.162.76.28:8080
-http://106.53.55.100:8080
-http://188.227.87.41:8080
-http://149.56.180.11:8080
-http://35.204.217.163:8080
-http://159.65.147.25:8080
-http://134.122.54.39:8080
-http://203.129.17.107:8080
-http://51.89.214.169:8080
-https://crustwebsites.net
-http://143.244.161.130:8080
-http://18.221.130.251:8080
-http://52.203.233.112:8080
-http://8.142.134.6:8080
-http://83.68.216.25:8080
-http://15.235.163.171:8080
-http://103.88.122.202:8080
-http://128.199.251.27:8080
-https://dweb.link
-http://51.79.144.222:8080
-http://18.136.39.112:8080
-https://ipfs.eternum.io
-https://ipfs.best-practice.se
-http://54.235.17.70:8080
-http://104.131.26.28:8080
-http://18.225.8.66:8080
-https://hardbin.com
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0, user-scalable=no"
+		/>
+		<title>温馨提示</title>
+		<meta name="keywords" content="云服务器,购买,腾讯云" />
+		<meta
+			name="keywords"
+			content="域名注册, 云服务器, httpdns, 域名解析, 域名转入, 移动域名, 域名查询"
+		/>
+		<meta
+			name="description"
+			content="腾讯云域名注册, 腾讯云旗下品牌。腾讯云域名注册是中国领先的域名注册服务提供商, 并提供云主机、网站建设等网络服务。"
+		/>
+		<link
+			rel="icon"
+			href="https://www.cloud.tencent.com/favicon.ico"
+			type="image/x-icon"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/portal/css/global.css"
+		/>
+		<style>
+			body {
+				min-width: 1200px;
+			}
+			div,
+			ul,
+			li,
+			p,
+			span,
+			i,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6 {
+				box-sizing: border-box;
+			}
+			.block-main {
+				width: 1200px;
+				margin: 0 auto;
+				overflow: hidden;
+			}
+			.block-clearfix:after {
+				content: "";
+				height: 0;
+				visibility: hidden;
+				display: block;
+				clear: both;
+			}
+			.block-fr {
+				float: right;
+			}
+			.block-fl {
+				float: left;
+			}
+			/* 主要信息模块 */
+			.block-info {
+				padding: 120px 0 96px;
+			}
+			.block-info-left {
+				float: left;
+				width: 660px;
+				margin-left: 12px;
+			}
+			.block-info-right {
+				float: right;
+				padding-top: 55px;
+				padding-right: 85px;
+			}
+			.block-info-right img {
+				width: 320px;
+			}
+			.block-title {
+				width: 320px;
+				color: #000;
+				font-size: 40px;
+				font-weight: 500;
+				line-height: 52px;
+				margin-bottom: 40px;
+			}
+			.block-text {
+				color: #3d485d;
+				font-size: 16px;
+				line-height: 28px;
+			}
+			.block-text i {
+				display: block;
+				min-height: 28px;
+				margin-top: 30px;
+				color: #0052d9;
+				font-size: 14px;
+			}
+			.block-text1 {
+				margin-bottom: 12px;
+			}
+			.block-btn-wrap {
+				margin-top: 10px;
+			}
+			.block-btn {
+				display: inline-block;
+				width: 152px;
+				height: 36px;
+				line-height: 36px;
+				text-align: center;
+				font-size: 14px;
+				margin-right: 12px;
+				cursor: pointer;
+				box-sizing: border-box;
+				vertical-align: top;
+			}
+			.block-btn1,
+			.block-btn2,
+			.block-btn3,
+			.block-btn4 {
+				display: none;
+			}
+			.block-btn-blue {
+				background: #0052d9;
+				color: #ffffff;
+			}
+			.block-btn-blue:hover {
+				background-color: #266fe8;
+			}
+			.block-btn-white {
+				border: 1px solid #0052d9;
+				background: #fff;
+				color: #0052d9;
+			}
+			.block-btn-white:hover {
+				background-color: rgba(0, 82, 217, 0.05);
+			}
+			.open-transfer-dialog {
+				display: none;
+			}
+			.block-ba-intro {
+				color: #0052d9;
+				font-size: 14px;
+				line-height: 24px;
+				margin-top: 16px;
+				cursor: pointer;
+			}
+			.block-ba-intro::before {
+				display: inline-block;
+				content: "";
+				width: 16px;
+				height: 16px;
+				background: url("https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/9cae674d-f6bc-4958-8482-6b1569aad41c.png");
+				background-size: 100%;
+				margin-right: 8px;
+				vertical-align: middle;
+				margin-top: -2px;
+			}
+			/* 列表模块 */
+			.block-list {
+				background-color: #eef4fa;
+				padding: 62px 0;
+			}
+			.block-list .block-main {
+				overflow: visible;
+			}
+			.block-list ul {
+				font-size: 0px;
+			}
+			.block-list li {
+				float: left;
+				position: relative;
+				width: 384px;
+				height: 219px;
+				padding: 24px;
+				margin-right: 24px;
+				background: #fff;
+				box-sizing: border-box;
+				vertical-align: top;
+				font-size: 14px;
+			}
+			.block-list li.recommend-item::after {
+				content: "";
+				position: absolute;
+				right: -4px;
+				top: -4px;
+				width: 68px;
+				height: 68px;
+				background: url("https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/01382544-3e4f-4653-9eda-242f6af991a7.png");
+				background-size: 100%;
+			}
+			.block-list li:last-child {
+				margin-right: 0;
+			}
+			.block-list li h4 {
+				color: #000;
+				font-size: 16px;
+				font-weight: 500;
+				line-height: 26px;
+				margin-bottom: 12px;
+			}
+			.block-list li h4 i {
+				display: none;
+			}
+			.block-list li p {
+				color: #495770;
+				font-size: 14px;
+				line-height: 24px;
+				margin-bottom: 12px;
+			}
+			.block-list li a {
+				position: absolute;
+				left: 24px;
+				bottom: 24px;
+				color: #0052d9;
+				line-height: 24px;
+				cursor: pointer;
+			}
+			/* 底部模块 */
+			.block-footer {
+				position: fixed;
+				width: 100%;
+				bottom: 0;
+				padding: 24px 0;
+				background-color: #fff;
+				color: #98a3b7;
+				text-align: center;
+			}
+			/* 弹窗模块 */
+			.block-dialog {
+				display: none;
+				position: fixed;
+				z-index: 1001;
+				width: 100%;
+				height: 100%;
+				left: 0;
+				top: 0;
+			}
+			.dialog-mask {
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				left: 0;
+				top: 0;
+				background-color: rgba(0, 0, 0, 0.4);
+			}
+			.dialog-box {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				width: 800px;
+				transform: translate(-50%, -50%);
+				background: #fff;
+				padding: 46px 40px 40px;
+			}
+			.dialog-head .dialog-title {
+				font-size: 24px;
+				margin-bottom: 36px;
+				font-weight: 500;
+				line-height: 36px;
+			}
+			.dialog-head .dialog-close {
+				position: absolute;
+				top: 20px;
+				right: 20px;
+				width: 20px;
+				height: 20px;
+				background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iIzg4OCIgZD0iTTEzLjk1IDMuNDE0TDEyLjUzNiAyIDggNi41MzYgMy40NjQgMiAyLjA1IDMuNDE0IDYuNTg2IDcuOTUgMi4wNSAxMi40ODVsMS40MTQgMS40MTRMOCA5LjM2NGw0LjUzNiA0LjUzNSAxLjQxNC0xLjQxNEw5LjQxNCA3Ljk1eiIvPjwvc3ZnPg==);
+				background-size: 100% 100%;
+				cursor: pointer;
+			}
+			.dialog-body img {
+				width: 216px;
+				margin-right: 52px;
+			}
+			.dialog-body p {
+				width: 390px;
+				line-height: 24px;
+				margin-bottom: 20px;
+				color: #3d485d;
+			}
+			.dialog-body p:last-child {
+				margin-bottom: 0;
+			}
+			.dialog-body .dialog-btn-wrap {
+				margin-top: 40px;
+				text-align: center;
+			}
+			.video-dialog .dialog-box {
+				width: 700px;
+				height: 500px;
+				padding: 0;
+				font-size: 0;
+			}
+			.video-dialog .dialog-body {
+				height: 100%;
+			}
+			.video-dialog .video-play {
+				width: 100%;
+				height: 100%;
+			}
+			.video-dialog .dialog-close {
+				position: absolute;
+				right: -30px;
+				top: -15px;
+				width: 30px;
+				height: 30px;
+				background: url("https://imgcache.qq.com/operation/dianshi/other/close-white.e5cb23e7475c990b39a25a7cc8730baee46acfac.svg");
+				background-size: 100%;
+				cursor: pointer;
+			}
+			@media screen and (max-width: 768px) {
+				body {
+					min-width: auto;
+				}
+				.block-main {
+					width: 100%;
+				}
+				.block-info {
+					padding: 0 15px;
+				}
+				.block-info-left {
+					float: none;
+					width: 100%;
+					margin-left: 0;
+					text-align: center;
+				}
+				.block-info-right {
+					float: none;
+					width: 100%;
+					text-align: center;
+					padding-right: 0;
+					padding-top: 44px;
+					margin-bottom: 20px;
+				}
+				.block-info-right img {
+					width: auto;
+					height: 165px;
+				}
+				.block-title {
+					width: 100%;
+					font-size: 18px;
+					line-height: 26px;
+					text-align: center;
+					margin-bottom: 16px;
+				}
+				.block-text {
+					font-size: 14px;
+					line-height: 20px;
+					text-align: center;
+					margin-top: 8px;
+				}
+				.block-text i {
+					min-height: 20px;
+					color: #0052d9;
+				}
+				.block-text i::before {
+					content: "";
+					display: block;
+					margin: 24px auto;
+					height: 1px;
+					width: 114px;
+					background-color: #e5e5e5;
+				}
+				.block-btn-wrap {
+					margin-top: 24px;
+				}
+				.block-btn {
+					width: 100%;
+					height: 48px;
+					line-height: 48px;
+					font-size: 16px;
+				}
+				.block-btn-blue {
+					margin-bottom: 12px;
+				}
+				.block-ba-intro {
+					display: inline-block;
+					margin-bottom: 32px;
+					margin-top: 18px;
+				}
+				.block-list {
+					padding: 0;
+				}
+				.block-list ul {
+					padding-top: 10px;
+				}
+				.block-list li {
+					width: 100%;
+					height: auto;
+					padding: 20px 15px;
+					margin-right: 0;
+					margin-bottom: 10px;
+				}
+				.block-list li.recommend-item::after {
+					background: none;
+				}
+				.block-list li h4 {
+					font-size: 14px;
+					line-height: 22px;
+					margin-bottom: 8px;
+				}
+				.block-list li h4 i {
+					display: inline-block;
+					height: 20px;
+					line-height: 20px;
+					padding: 0 6px;
+					background: #ff9c19;
+					border-radius: 32px;
+					color: #fff;
+					font-size: 10px;
+					text-align: center;
+					margin-left: 10px;
+				}
+				.block-list li p {
+					font-size: 14px;
+					margin-bottom: 12px;
+				}
+				.block-list li a {
+					position: initial;
+				}
+				.block-footer {
+					position: relative;
+				}
+				.transfer-dialog .dialog-box {
+					bottom: 0;
+					left: 0;
+					right: 0;
+					top: initial;
+					width: 100%;
+					transform: initial;
+					padding: 0 0 24px;
+				}
+				.dialog-head {
+					height: 56px;
+					line-height: 56px;
+					padding: 0 15px;
+					border-bottom: 1px solid #e5e5e5;
+				}
+				.dialog-head .dialog-title {
+					font-size: 18px;
+					line-height: inherit;
+					margin-bottom: 0;
+				}
+				.dialog-head .dialog-close {
+					top: 18px;
+					right: 18px;
+				}
+				.dialog-body {
+					padding: 0 15px;
+				}
+				.dialog-body .block-fl,
+				.dialog-body .block-fr {
+					float: none;
+				}
+				.dialog-body .block-fr {
+					text-align: center;
+					padding: 24px 0;
+				}
+				.dialog-body img {
+					height: 131px;
+					margin-right: 0;
+				}
+				.dialog-body p {
+					width: initial;
+					font-size: 12px;
+					line-height: 20px;
+					margin-bottom: 14px;
+				}
+				.dialog-body .dialog-btn-wrap {
+					margin-top: 24px;
+				}
+				.video-dialog .dialog-box {
+					width: 98%;
+					height: auto;
+					padding: 0;
+					padding-top: 71.4285%;
+				}
+				.video-dialog .dialog-body {
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					padding: 0;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="body">
+			<div class="block-page">
+				<!-- 主要信息模块 -->
+				<div class="block-info">
+					<div class="block-main">
+						<div class="block-info-right">
+							<img
+								src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/a50b92ad-892c-456a-a137-6be267fcbb15.png"
+								alt=""
+							/>
+						</div>
+						<div class="block-info-left">
+							<div class="block-title">网站暂时无法访问</div>
+							<div class="block-text block-text1">
+								该网站未根据工信部相关法律规则在腾讯云进行备案。
+							</div>
+							<div class="block-text">
+								国务院令第292号《互联网信息服务管理办法》和《非经营性互联网信息服务备案管理办法》规定，所有对中国大陆境内提供服务的网站都必须先进行ICP备案。
+								<br /><i class="block-tip"></i>
+							</div>
+							<div class="block-btn-wrap">
+								<a
+									class="block-btn block-btn-blue block-btn1"
+									data-type="1"
+									data-hub="webblock_tencentyun_beian_btn"
+									>去腾讯云备案</a
+								>
+								<a
+									class="block-btn block-btn-blue block-btn2"
+									data-type="2"
+									data-hub="webblock_tencent_transfer_btn"
+									>去接入备案</a
+								>
+								<a
+									class="block-btn block-btn-blue block-btn3"
+									data-type="3"
+									data-hub="webblock_tencent_check_btn"
+									>去腾讯云整改</a
+								>
+								<a
+									class="block-btn block-btn-blue block-btn4"
+									data-type="4"
+									data-hub="webblock_tencent_kefu_btn"
+									>在线客服</a
+								>
+							</div>
+							<div class="block-ba-intro">网站备案介绍</div>
+						</div>
+					</div>
+				</div>
+				<!-- 列表模块 -->
+				<div class="block-list">
+					<div class="block-main">
+						<ul class="block-clearfix">
+							<li>
+								<h4>如何备案</h4>
+								<p>
+									您需前往腾讯云ICP备案控制台，根据系统提示填写相关的主体信息和服务信息，上传证件照片及核验单等备案材料。审核通过以后，腾讯云会以短信和邮件的形式通知您。
+								</p>
+								<a
+									href="https://cloud.tencent.com/document/product/243/18958"
+									data-hub="webblock_consult_btn"
+									target="_blank"
+									>备案教程</a
+								>
+							</li>
+							<li>
+								<h4>备案期间网站还能正常访问吗</h4>
+								<p>
+									首次备案：未成功办理备案的网站均不能上线访问<br />
+									接入备案：在腾讯云接入备案成功后，才可在腾讯云开展网站内容服务，未接入前请继续使用其他已备案过的云服务商
+								</p>
+								<a
+									href="https://cloud.tencent.com/document/product/243/19637"
+									target="_blank"
+									>了解详情</a
+								>
+							</li>
+							<li>
+								<h4>接入备案是否影响其他地方的备案</h4>
+								<p>
+									接入备案过程中，暂不会影响您的网站访问。接入备案只是增加一个服务商，不会影响您在其它服务商的备案数据，您可同时使用两家服务商的服务器
+								</p>
+								<a
+									href="https://cloud.tencent.com/document/product/243/43878#.E6.8E.A5.E5.85.A5.E5.A4.87.E6.A1.88.E6.98.AF.E5.90.A6.E5.BD.B1.E5.93.8D.E5.85.B6.E4.BB.96.E5.9C.B0.E6.96.B9.E7.9A.84.E5.A4.87.E6.A1.88.EF.BC.9F"
+									target="_blank"
+									>了解详情</a
+								>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<!-- 底部模块 -->
+				<div class="block-footer">京ICP备11018762号</div>
+				<!-- 接入备案弹窗模块 -->
+				<div class="block-dialog transfer-dialog">
+					<div class="dialog-mask"></div>
+					<div class="dialog-box">
+						<div class="dialog-head">
+							<div class="dialog-title">已经备过案了？</div>
+							<div class="dialog-close"></div>
+						</div>
+						<div class="dialog-body">
+							<div class="block-clearfix">
+								<div class="block-fr">
+									<img
+										src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/54ddc8c2-c1fc-458a-9da6-bdc18dcdd075.png"
+										alt=""
+									/>
+								</div>
+								<div class="block-fl">
+									<p>
+										备案信息需要与接入服务商进行关联。如果主体已经在其他接入服务商完成备案取得备案号，表示您的网站可以在该接入商提供的服务范围从事网站内容服务。
+									</p>
+									<p>
+										若更换了接入服务商，如换成腾讯云，则需要在腾讯云做接入备案。在腾讯云接入备案成功后，表示您可以在腾讯云开展网站内容服务。
+									</p>
+								</div>
+							</div>
+							<div class="dialog-btn-wrap">
+								<a
+									href="https://console.cloud.tencent.com/beian/manage"
+									target="_blank"
+									class="block-btn block-btn-blue"
+									>我要接入备案</a
+								>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- 视频播放弹窗 -->
+				<div class="block-dialog video-dialog">
+					<div class="dialog-mask"></div>
+					<div class="dialog-box">
+						<div class="dialog-close"></div>
+						<div class="dialog-body"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script
+			type="text/javascript"
+			src="https://beaconcdn.qq.com/sdk/4.3.4/beacon_web.min.js"
+		></script>
+		<script>
+			// 获取url的query参数
+			function getQueryString(name) {
+				let reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+				let r = window.location.search.substr(1).match(reg);
+				if (r != null) {
+					return decodeURIComponent(r[2]);
+				}
+				return null;
+			}
+			// 格式化请求参数
+			function formatParams(data) {
+				let arr = [];
+				for (let name in data) {
+					arr.push(
+						encodeURIComponent(name) + "=" + encodeURIComponent(data[name])
+					);
+				}
+				// arr.push(("v=" + Math.random()).replace(".", ""));
+				return arr.join("&");
+			}
+			// ajax请求封装
+			function ajax(options) {
+				options = options || {};
+				options.method = (options.method || "GET").toUpperCase();
+				options.contentType =
+					options.contentType || "application/x-www-form-urlencode";
+				options.timeout = options.timeout || 30000;
+				let params =
+					options.method === "POST" &&
+					options.contentType === "application/json"
+						? JSON.stringify(options.data)
+						: formatParams(options.data, options.contentType);
+				let xhr;
+				// 考虑兼容性
+				if (window.XMLHttpRequest) {
+					xhr = new XMLHttpRequest();
+				} else if (window.ActiveObject) {
+					// 兼容IE6以下版本
+					xhr = new ActiveXobject("Microsoft.XMLHTTP");
+				}
+
+				// 启动并发送一个请求
+				if (options.method == "GET") {
+					xhr.open("get", options.url + "?" + params, true);
+					xhr.send(null);
+				} else if (options.method == "POST") {
+					xhr.open("post", options.url, true);
+					// 设置表单提交时的内容类型
+					// Content-type数据请求的格式
+					xhr.setRequestHeader("Content-type", options.contentType);
+					xhr.send(params);
+				}
+
+				// 设置有效时间
+				setTimeout(function () {
+					if (xhr.readySate != 4) {
+						xhr.abort();
+					}
+				}, options.timeout);
+				/*
+					接收
+					options.success成功之后的回调函数  options.error失败后的回调函数
+					xhr.responseText,xhr.responseXML  获得字符串形式的响应数据或者XML形式的响应数据
+				*/
+				xhr.onreadystatechange = function () {
+					if (xhr.readyState == 4) {
+						let status = xhr.status;
+						if ((status >= 200 && status < 300) || status == 304) {
+							options.success &&
+								options.success(xhr.responseText, xhr.responseXML);
+						} else {
+							options.error && options.error(status);
+						}
+					}
+				};
+			}
+		</script>
+		<script>
+			window.addEventListener("DOMContentLoaded", (event) => {
+				// 初始化数据上报
+				const beacon = new BeaconAction({
+					appkey: "0WEB05EW4ATU5I91", // 系统或项目id
+					delay: 1000,
+				});
+				const domain = getQueryString("d");
+				// 点击按钮
+				document.querySelectorAll(".block-btn").forEach((el) => {
+					el.addEventListener("click", (e) => {
+						const type = e.target.dataset.type;
+						if (type === "1" || type === "2") {
+							window.open(
+								"https://console.cloud.tencent.com/beian/manage/welcome?domain=" +
+									domain
+							);
+						}
+						if (type === "3") {
+							window.open(
+								"https://console.cloud.tencent.com/beian/manage/inspec-detail"
+							);
+						}
+						if (type === "4") {
+							window.open(
+								"https://cloud.tencent.com/online-service?from=ticket-tab"
+							);
+						}
+					});
+				});
+				// 控制视频显示
+				document.querySelector(".block-ba-intro").onclick = function () {
+					document.querySelector(".video-dialog").style.display = "block";
+					document.querySelector(".video-dialog .dialog-body").innerHTML =
+						'<iframe class="video-play" style="background-color: #000;" width="700" height="500" src="https://cloud.tencent.com/edu/learning/quick-play/1818-20734?auto=1&amp;source=gw.doc.media" allowfullscreen="">当前浏览器不能支持视频播放，请采用chrome或IE9以上浏览器</iframe>';
+				};
+				document.querySelector(".video-dialog .dialog-close").onclick =
+					function () {
+						document.querySelector(".video-dialog").style.display = "none";
+						document.querySelector(".video-dialog .dialog-body").innerHTML = "";
+					};
+				document.querySelector(".video-dialog .dialog-mask").onclick =
+					function () {
+						document.querySelector(".video-dialog").style.display = "none";
+						document.querySelector(".video-dialog .dialog-body").innerHTML = "";
+					};
+				// 埋点统计
+				document.querySelectorAll("a").forEach((el) => {
+					el.addEventListener("click", (e) => {
+						try {
+							let datahub = e.target.dataset.hub;
+							if (datahub) {
+								beacon.onUserAction(datahub);
+							}
+						} catch (error) {}
+					});
+				});
+				// 判断域名状态
+				ajax({
+					url: "//icp.qcloud.com/beian/IcpStatus",
+					method: "post",
+					data: {
+						Domain: domain,
+						RequestId: new Date().getTime().toString(),
+					},
+					timeout: 10000,
+					contentType: "application/json",
+					success: function (res) {
+						const result = res && JSON.parse(res);
+						if (result.Response.Code === 0) {
+							if (result.Response.GovStatus === "0") {
+								// 未在管局备案
+								document.querySelector(".block-tip").innerHTML =
+									"经检测您的网站域名未在管局备案，如需要使用腾讯云资源，需在腾讯云新增备案后方可恢复访问。";
+								document.querySelector(".block-btn1").style.display = "block";
+								document.querySelector(".block-btn2").style.display = "none";
+								document.querySelector(".block-btn3").style.display = "none";
+								document.querySelector(".block-btn4").style.display = "none";
+								return;
+							}
+							if (result.Response.Status === "0") {
+								// 已在管局备案未在腾讯云接入
+								document.querySelector(".block-tip").innerHTML =
+									"经检测您的网站域名已在工信部备案，如需要使用腾讯云资源，需在腾讯云接入备案后方可恢复访问。";
+								document.querySelector(".block-btn1").style.display = "none";
+								document.querySelector(".block-btn2").style.display = "block";
+								document.querySelector(".block-btn3").style.display = "none";
+								document.querySelector(".block-btn4").style.display = "none";
+								return;
+							}
+							if (result.Response.AuditStatus === "1") {
+								// 已在管局和腾讯云备案，但有核查单
+								document.querySelector(".block-tip").innerHTML =
+									"网站无法访问常见原因如下：<br />网站内容与备案信息不符、备案信息不准确、网站存在不适合传播的内容等，具体请登录备案系统查看。";
+								document.querySelector(".block-btn1").style.display = "none";
+								document.querySelector(".block-btn2").style.display = "none";
+								document.querySelector(".block-btn3").style.display = "block";
+								document.querySelector(".block-btn4").style.display = "none";
+								return;
+							}
+
+							// 默认状态
+							document.querySelector(".block-tip").innerHTML =
+								"网站无法访问常见原因如下：<br />网站内容与备案信息不符、备案信息不准确、网站存在不适合传播的内容等，您可以进入在线客服或拨打4009100100/95716进行反馈，我们将竭诚为您服务!";
+							document.querySelector(".block-btn1").style.display = "none";
+							document.querySelector(".block-btn2").style.display = "none";
+							document.querySelector(".block-btn3").style.display = "none";
+							document.querySelector(".block-btn4").style.display = "block";
+						} else {
+							// 默认状态
+							document.querySelector(".block-tip").innerHTML =
+								"网站无法访问常见原因如下：<br />网站内容与备案信息不符、备案信息不准确、网站存在不适合传播的内容等，您可以进入在线客服或拨打4009100100/95716进行反馈，我们将竭诚为您服务!";
+							document.querySelector(".block-btn1").style.display = "none";
+							document.querySelector(".block-btn2").style.display = "none";
+							document.querySelector(".block-btn3").style.display = "none";
+							document.querySelector(".block-btn4").style.display = "block";
+						}
+					},
+					error: function (e) {
+						// 默认状态
+						document.querySelector(".block-tip").innerHTML =
+							"网站无法访问常见原因如下：<br />网站内容与备案信息不符、备案信息不准确、网站存在不适合传播的内容等，您可以进入在线客服或拨打4009100100/95716进行反馈，我们将竭诚为您服务!";
+						document.querySelector(".block-btn1").style.display = "none";
+						document.querySelector(".block-btn2").style.display = "none";
+						document.querySelector(".block-btn3").style.display = "none";
+						document.querySelector(".block-btn4").style.display = "block";
+					},
+				});
+			});
+		</script>
+	</body>
+</html>
+<!--[if !IE]>|xGv00|8f85bc5ee2a463e0e5c16c474a6dd271<![endif]-->
