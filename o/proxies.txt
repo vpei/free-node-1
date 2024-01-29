@@ -127,28 +127,28 @@ proxies:
   - {name: '[01-29]-🇨🇦-加拿大-131-ssr2.ssrsub.com', cipher: aes-256-cfb, password: suo.yt/ssrsub, server: ssr2.ssrsub.com, port: 38149, type: ss}
   - {name: '[01-29]-🇦🇶-保加利亚-130-213.183.63.218', cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, server: 213.183.63.218, port: 9007, type: ss}
   - {name: '[01-29]-🇺🇸-美国华盛顿-129-38.91.107.16', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.91.107.16, port: 5001, type: ss}
-  - {name: '[01-29]-🇦🇶-广西河池市-128-sg-1.gito.cc', server: sg-1.gito.cc, port: 831, type: ssr, cipher: aes-256-cfb, password: 9ifast, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth}
-  - {name: '[01-29]-🇺🇸-美国华盛顿-127-38.86.135.36', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.86.135.36, port: 3306, type: ss}
-  - {name: '[01-29]-🇸🇬-新加坡-126-kr1.vfun.icu', server: kr1.vfun.icu, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain}
-  - {name: '[01-29]-🇨🇦-加拿大-125-142.202.48.74', cipher: aes-256-gcm, password: zDNVedRFPQexG9v, server: 142.202.48.74, port: 445, type: ss}
-  - {name: '[01-29]-🇦🇶-本机地址-124-zz.lemontea.shop', cipher: chacha20-ietf-poly1305, password: 2cde1c3b-a749-4506-a67b-b6d78e9b7b34, server: zz.lemontea.shop, port: 14231, type: ss}
-  - {name: '[01-29]-🇦🇶-北美地区-123-169.197.142.99', cipher: aes-256-gcm, password: KixLvKzwjekG00rm, server: 169.197.142.99, port: 8000, type: ss}
-  - {name: '[01-29]-🇸🇬-新加坡-122-51.79.222.99', server: 51.79.222.99, port: 443, type: ssr, cipher: aes-256-ctr, password: bypasser2020qwerty, protocol: origin, obfs: tls1.2_ticket_auth}
-  - {name: '[01-29]-🇦🇶-广西河池市-121-sg-1.gito.cc', server: sg-1.gito.cc, port: 831, type: ssr, cipher: aes-256-cfb, password: 9ifast, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth}
-  - {name: '[01-29]-🇨🇦-加拿大蒙特利尔-120-134.195.196.221', cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, server: 134.195.196.221, port: 8118, type: ss}
-  - {name: '[01-29]-🇯🇵-日本-119-jp-am48-6.eqnode.net', server: jp-am48-6.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: eAokbaDN6, protocol: origin, obfs: tls1.2_ticket_auth}
-  - {name: '[01-29]-🇺🇸-美国-118-146.190.87.59', server: 146.190.87.59, port: 56674, type: trojan, password: 订阅内容解析错误fGahrYudYD, skip-cert-verify: false, udp: true}
-  - {name: '[01-29]-🇯🇵-日本-117-43.201.33.9', server: 43.201.33.9, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain}
-  - {name: '[01-29]-🇦🇶-本机地址-116-t3.freegradely.xyz', server: t3.freegradely.xyz, port: 40044, type: ssr, cipher: rc4-md5, password: dongtaiwang.com, protocol: origin, obfs: plain}
-  - {name: '[01-29]-🇺🇸-美国华盛顿-115-38.143.66.87', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.143.66.87, port: 3389, type: ss}
-  - {name: '[01-29]-🇺🇸-美国华盛顿-114-38.86.135.36', cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, server: 38.86.135.36, port: 7306, type: ss}
-  - {name: '[01-29]-🇺🇸-美国-113-141.193.68.81', server: 141.193.68.81, port: 443, type: trojan, password: 订阅内容解析错误29ea82cf-f956-42b2-a5dc-35feea39e7ff, skip-cert-verify: false, udp: true}
-  - {name: '[01-29]-🇬🇧-英国-112-217.138.193.10', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 217.138.193.10, port: 810, type: ss}
-  - {name: '[01-29]-🇳🇱-荷兰-111-213.183.59.214', cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN, server: 213.183.59.214, port: 9031, type: ss}
-  - {name: '[01-29]-🇷🇴-罗马尼亚-110-37.120.192.158', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 37.120.192.158, port: 806, type: ss}
-  - {name: '[01-29]-🇺🇸-美国华盛顿-109-38.143.66.87', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.143.66.87, port: 5000, type: ss}
-  - {name: '[01-29]-🇬🇧-英国-108-176.97.67.144', cipher: chacha20-ietf-poly1305, password: 0ZxXUddK85ET, server: 176.97.67.144, port: 444, type: ss}
-  - {name: '[01-29]-🇺🇸-美国华盛顿-107-38.91.107.16', cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, server: 38.91.107.16, port: 8118, type: ss}
+  - {name: '[01-29]-🇺🇸-美国华盛顿-128-38.86.135.36', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.86.135.36, port: 3306, type: ss}
+  - {name: '[01-29]-🇸🇬-新加坡-127-kr1.vfun.icu', server: kr1.vfun.icu, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain}
+  - {name: '[01-29]-🇨🇦-加拿大-126-142.202.48.74', cipher: aes-256-gcm, password: zDNVedRFPQexG9v, server: 142.202.48.74, port: 445, type: ss}
+  - {name: '[01-29]-🇦🇶-本机地址-125-zz.lemontea.shop', cipher: chacha20-ietf-poly1305, password: 2cde1c3b-a749-4506-a67b-b6d78e9b7b34, server: zz.lemontea.shop, port: 14231, type: ss}
+  - {name: '[01-29]-🇦🇶-北美地区-124-169.197.142.99', cipher: aes-256-gcm, password: KixLvKzwjekG00rm, server: 169.197.142.99, port: 8000, type: ss}
+  - {name: '[01-29]-🇸🇬-新加坡-123-51.79.222.99', server: 51.79.222.99, port: 443, type: ssr, cipher: aes-256-ctr, password: bypasser2020qwerty, protocol: origin, obfs: tls1.2_ticket_auth}
+  - {name: '[01-29]-🇦🇶-广西河池市-122-sg-1.gito.cc', server: sg-1.gito.cc, port: 831, type: ssr, cipher: aes-256-cfb, password: 9ifast, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth}
+  - {name: '[01-29]-🇨🇦-加拿大蒙特利尔-121-134.195.196.221', cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, server: 134.195.196.221, port: 8118, type: ss}
+  - {name: '[01-29]-🇯🇵-日本-120-jp-am48-6.eqnode.net', server: jp-am48-6.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: eAokbaDN6, protocol: origin, obfs: tls1.2_ticket_auth}
+  - {name: '[01-29]-🇺🇸-美国-119-146.190.87.59', server: 146.190.87.59, port: 56674, type: trojan, password: 订阅内容解析错误fGahrYudYD, skip-cert-verify: false, udp: true}
+  - {name: '[01-29]-🇯🇵-日本-118-43.201.33.9', server: 43.201.33.9, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain}
+  - {name: '[01-29]-🇦🇶-本机地址-117-t3.freegradely.xyz', server: t3.freegradely.xyz, port: 40044, type: ssr, cipher: rc4-md5, password: dongtaiwang.com, protocol: origin, obfs: plain}
+  - {name: '[01-29]-🇺🇸-美国华盛顿-116-38.143.66.87', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.143.66.87, port: 3389, type: ss}
+  - {name: '[01-29]-🇺🇸-美国华盛顿-115-38.86.135.36', cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, server: 38.86.135.36, port: 7306, type: ss}
+  - {name: '[01-29]-🇺🇸-美国-114-141.193.68.81', server: 141.193.68.81, port: 443, type: trojan, password: 订阅内容解析错误29ea82cf-f956-42b2-a5dc-35feea39e7ff, skip-cert-verify: false, udp: true}
+  - {name: '[01-29]-🇬🇧-英国-113-217.138.193.10', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 217.138.193.10, port: 810, type: ss}
+  - {name: '[01-29]-🇳🇱-荷兰-112-213.183.59.214', cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN, server: 213.183.59.214, port: 9031, type: ss}
+  - {name: '[01-29]-🇷🇴-罗马尼亚-111-37.120.192.158', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 37.120.192.158, port: 806, type: ss}
+  - {name: '[01-29]-🇺🇸-美国华盛顿-110-38.143.66.87', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.143.66.87, port: 5000, type: ss}
+  - {name: '[01-29]-🇬🇧-英国-109-176.97.67.144', cipher: chacha20-ietf-poly1305, password: 0ZxXUddK85ET, server: 176.97.67.144, port: 444, type: ss}
+  - {name: '[01-29]-🇺🇸-美国华盛顿-108-38.91.107.16', cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, server: 38.91.107.16, port: 8118, type: ss}
+  - {name: '[01-29]-🇦🇶-广西河池市-107-sg-1.gito.cc', server: sg-1.gito.cc, port: 831, type: ssr, cipher: aes-256-cfb, password: 9ifast, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth}
   - {name: '[01-29]-🇦🇶-广西河池市-106-tg_mfbpn_pr4.52vpn.eu.org', server: tg_mfbpn_pr4.52vpn.eu.org, port: 16831, type: ssr, cipher: aes-256-cfb, password: k3U8z2ZGi78D, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth}
   - {name: '[01-29]-🇦🇶-广西河池市-105-tg_mfbpn_pr4.52vpn.eu.org', server: tg_mfbpn_pr4.52vpn.eu.org, port: 16830, type: ssr, cipher: aes-256-cfb, password: k3U8z2ZGi78D, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth}
   - {name: '[01-29]-🇺🇸-美国-104-172.99.188.71', cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, server: 172.99.188.71, port: 8090, type: ss}
