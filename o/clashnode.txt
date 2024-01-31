@@ -101,7 +101,7 @@ proxies:
   - {name": "[01-31]-🇨🇦-加拿大多伦多-157-198.57.27.233", "cipher": "aes-256-gcm", "password": "PCnnH6SQSnfoS27", "server": "198.57.27.233", "port": "8091", "type": "ss"}
   - {name": "[01-31]-🇸🇬-新加坡-156-217.197.161.166", "cipher": "chacha20-ietf-poly1305", "password": "GyBwPWH3Vao", "server": "217.197.161.166", "port": "804", "type": "ss"}
   - {name": "[01-31]-🇺🇸-美国华盛顿-155-38.68.134.85", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.68.134.85", "port": "5001", "type": "ss"}
-  - {name": "[01-31]-🇷🇺-俄罗斯-154-hk3.visaapp.top", "server": "hk3.visaapp.top", "port": "49487", "type": "trojan", "password": "订阅内容解析错误1cb996c8-e5bf-40d2-9a3c-149b3b721c5f", "skip-cert-verify": "false", "udp": "true"}
+  - {name": "[01-31]-🇺🇸-美国-154-hk3.visaapp.top", "server": "hk3.visaapp.top", "port": "49487", "type": "trojan", "password": "订阅内容解析错误1cb996c8-e5bf-40d2-9a3c-149b3b721c5f", "skip-cert-verify": "false", "udp": "true"}
   - {name": "[01-31]-🇺🇸-美国华盛顿-153-38.107.226.149", "cipher": "aes-256-gcm", "password": "PCnnH6SQSnfoS27", "server": "38.107.226.149", "port": "8090", "type": "ss"}
   - {name": "[01-31]-🇦🇶-本机地址-152-zz.lemontea.shop", "cipher": "chacha20-ietf-poly1305", "password": "0d488675-3692-4fce-a922-dc620c1269f6", "server": "zz.lemontea.shop", "port": "43362", "type": "ss"}
   - {name": "[01-31]-🇦🇶-广西河池市-151-tg_mfbpn_pr4.52vpn.eu.org", "server": "tg_mfbpn_pr4.52vpn.eu.org", "port": "16839", "type": "ssr", "cipher": "aes-256-cfb", "password": "k3U8z2ZGi78D", "protocol": "auth_aes128_md5", "obfs": "tls1.2_ticket_auth"}
@@ -241,7 +241,7 @@ proxies:
   - {name": "[01-31]-🇺🇸-美国-017-45.78.5.173", "cipher": "aes-256-gcm", "password": "5AsJpT36WpdWbv5r", "server": "45.78.5.173", "port": "57998", "type": "ss"}
   - {name": "[01-31]-🇺🇸-美国华盛顿-016-38.68.134.85", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.68.134.85", "port": "5000", "type": "ss"}
   - {name": "[01-31]-🇦🇶-本机地址-015-01.node.vmssr.info", "cipher": "chacha20-ietf-poly1305", "password": "5421dd46-3d94-4495-b471-46f31db299a1", "server": "01.node.vmssr.info", "port": "31101", "type": "ss"}
-  - {name": "[01-31]-🇺🇸-美国-014-bjct.xsus.link", "cipher": "aes-256-gcm", "password": "669c11f6-9e41-4fcf-9800-02b302edd1f8", "server": "bjct.xsus.link", "port": "10070", "type": "ss"}
+  - {name": "[01-31]-🇳🇱-荷兰哈勒姆-014-bjct.xsus.link", "cipher": "aes-256-gcm", "password": "669c11f6-9e41-4fcf-9800-02b302edd1f8", "server": "bjct.xsus.link", "port": "10070", "type": "ss"}
   - {name": "[01-31]-🇦🇶-本机地址-013-hbcu.lele233.top", "cipher": "aes-256-gcm", "password": "50491486-e5c6-40e3-9b5f-d21a5426914f", "server": "hbcu.lele233.top", "port": "16157", "type": "ss"}
   - {name": "[01-31]-🇯🇵-日本-012-193.38.139.203", "cipher": "chacha20-ietf-poly1305", "password": "GyBwPWH3Vao", "server": "193.38.139.203", "port": "809", "type": "ss"}
   - {name": "[01-31]-🇦🇶-保加利亚-011-213.183.63.218", "cipher": "aes-256-cfb", "password": "c3NtHJ5ujV2tGDfj", "server": "213.183.63.218", "port": "9084", "type": "ss"}
