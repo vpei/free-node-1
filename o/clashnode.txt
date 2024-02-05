@@ -125,26 +125,26 @@ proxies:
   - {name": "[02-05]-🇨🇦-加拿大-133-ssr2.ssrsub.com", "cipher": "aes-256-cfb", "password": "suo.yt/ssrsub", "server": "ssr2.ssrsub.com", "port": "38149", "type": "ss"}
   - {name": "[02-05]-🇦🇶-保加利亚-132-213.183.63.218", "cipher": "aes-256-cfb", "password": "kSPmvwdFzGMMW5pY", "server": "213.183.63.218", "port": "9007", "type": "ss"}
   - {name": "[02-05]-🇺🇸-美国华盛顿-131-38.91.107.16", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.91.107.16", "port": "5001", "type": "ss"}
-  - {name": "[02-05]-🇺🇸-美国华盛顿-130-38.86.135.36", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.86.135.36", "port": "3306", "type": "ss"}
-  - {name": "[02-05]-🇸🇬-新加坡-129-kr1.vfun.icu", "server": "kr1.vfun.icu", "port": "443", "type": "ssr", "cipher": "aes-256-cfb", "password": "vyunme", "protocol": "auth_aes128_sha1", "obfs": "plain"}
-  - {name": "[02-05]-🇨🇦-加拿大-128-142.202.48.74", "cipher": "aes-256-gcm", "password": "zDNVedRFPQexG9v", "server": "142.202.48.74", "port": "445", "type": "ss"}
-  - {name": "[02-05]-🇦🇶-本机地址-127-zz.lemontea.shop", "cipher": "chacha20-ietf-poly1305", "password": "2cde1c3b-a749-4506-a67b-b6d78e9b7b34", "server": "zz.lemontea.shop", "port": "14231", "type": "ss"}
-  - {name": "[02-05]-🇦🇶-北美地区-126-169.197.142.99", "cipher": "aes-256-gcm", "password": "KixLvKzwjekG00rm", "server": "169.197.142.99", "port": "8000", "type": "ss"}
-  - {name": "[02-05]-🇸🇬-新加坡-125-51.79.222.99", "server": "51.79.222.99", "port": "443", "type": "ssr", "cipher": "aes-256-ctr", "password": "bypasser2020qwerty", "protocol": "origin", "obfs": "tls1.2_ticket_auth"}
-  - {name": "[02-05]-🇨🇦-加拿大蒙特利尔-124-134.195.196.221", "cipher": "aes-256-gcm", "password": "cdBIDV42DCwnfIN", "server": "134.195.196.221", "port": "8118", "type": "ss"}
-  - {name": "[02-05]-🇯🇵-日本-123-jp-am48-6.eqnode.net", "server": "jp-am48-6.eqnode.net", "port": "8081", "type": "ssr", "cipher": "aes-256-cfb", "password": "eAokbaDN6", "protocol": "origin", "obfs": "tls1.2_ticket_auth"}
-  - {name": "[02-05]-🇺🇸-美国-122-146.190.87.59", "server": "146.190.87.59", "port": "56674", "type": "trojan", "password": "订阅内容解析错误fGahrYudYD", "skip-cert-verify": "false", "udp": "true"}
-  - {name": "[02-05]-🇯🇵-日本-121-43.201.33.9", "server": "43.201.33.9", "port": "443", "type": "ssr", "cipher": "aes-256-cfb", "password": "vyunme", "protocol": "auth_aes128_sha1", "obfs": "plain"}
-  - {name": "[02-05]-🇦🇶-本机地址-120-t3.freegradely.xyz", "server": "t3.freegradely.xyz", "port": "40044", "type": "ssr", "cipher": "rc4-md5", "password": "dongtaiwang.com", "protocol": "origin", "obfs": "plain"}
-  - {name": "[02-05]-🇺🇸-美国华盛顿-119-38.143.66.87", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.143.66.87", "port": "3389", "type": "ss"}
-  - {name": "[02-05]-🇺🇸-美国华盛顿-118-38.86.135.36", "cipher": "aes-256-gcm", "password": "FoOiGlkAA9yPEGP", "server": "38.86.135.36", "port": "7306", "type": "ss"}
-  - {name": "[02-05]-🇺🇸-美国-117-141.193.68.81", "server": "141.193.68.81", "port": "443", "type": "trojan", "password": "订阅内容解析错误29ea82cf-f956-42b2-a5dc-35feea39e7ff", "skip-cert-verify": "false", "udp": "true"}
-  - {name": "[02-05]-🇬🇧-英国-116-217.138.193.10", "cipher": "chacha20-ietf-poly1305", "password": "GyBwPWH3Vao", "server": "217.138.193.10", "port": "810", "type": "ss"}
-  - {name": "[02-05]-🇳🇱-荷兰-115-213.183.59.214", "cipher": "aes-256-cfb", "password": "BwcAUZk8hUFAkDGN", "server": "213.183.59.214", "port": "9031", "type": "ss"}
-  - {name": "[02-05]-🇷🇴-罗马尼亚-114-37.120.192.158", "cipher": "chacha20-ietf-poly1305", "password": "GyBwPWH3Vao", "server": "37.120.192.158", "port": "806", "type": "ss"}
-  - {name": "[02-05]-🇺🇸-美国华盛顿-113-38.143.66.87", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.143.66.87", "port": "5000", "type": "ss"}
-  - {name": "[02-05]-🇬🇧-英国-112-176.97.67.144", "cipher": "chacha20-ietf-poly1305", "password": "0ZxXUddK85ET", "server": "176.97.67.144", "port": "444", "type": "ss"}
-  - {name": "[02-05]-🇦🇶-广西河池市-111-rs-2.gito.cc", "server": "rs-2.gito.cc", "port": "33411", "type": "ssr", "cipher": "aes-256-cfb", "password": "9ifast", "protocol": "auth_aes128_md5", "obfs": "tls1.2_ticket_auth"}
+  - {name": "[02-05]-🇦🇶-广西河池市-130-sg-1.gito.cc", "server": "sg-1.gito.cc", "port": "831", "type": "ssr", "cipher": "aes-256-cfb", "password": "9ifast", "protocol": "auth_aes128_md5", "obfs": "tls1.2_ticket_auth"}
+  - {name": "[02-05]-🇺🇸-美国华盛顿-129-38.86.135.36", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.86.135.36", "port": "3306", "type": "ss"}
+  - {name": "[02-05]-🇸🇬-新加坡-128-kr1.vfun.icu", "server": "kr1.vfun.icu", "port": "443", "type": "ssr", "cipher": "aes-256-cfb", "password": "vyunme", "protocol": "auth_aes128_sha1", "obfs": "plain"}
+  - {name": "[02-05]-🇨🇦-加拿大-127-142.202.48.74", "cipher": "aes-256-gcm", "password": "zDNVedRFPQexG9v", "server": "142.202.48.74", "port": "445", "type": "ss"}
+  - {name": "[02-05]-🇦🇶-本机地址-126-zz.lemontea.shop", "cipher": "chacha20-ietf-poly1305", "password": "2cde1c3b-a749-4506-a67b-b6d78e9b7b34", "server": "zz.lemontea.shop", "port": "14231", "type": "ss"}
+  - {name": "[02-05]-🇦🇶-北美地区-125-169.197.142.99", "cipher": "aes-256-gcm", "password": "KixLvKzwjekG00rm", "server": "169.197.142.99", "port": "8000", "type": "ss"}
+  - {name": "[02-05]-🇸🇬-新加坡-124-51.79.222.99", "server": "51.79.222.99", "port": "443", "type": "ssr", "cipher": "aes-256-ctr", "password": "bypasser2020qwerty", "protocol": "origin", "obfs": "tls1.2_ticket_auth"}
+  - {name": "[02-05]-🇨🇦-加拿大蒙特利尔-123-134.195.196.221", "cipher": "aes-256-gcm", "password": "cdBIDV42DCwnfIN", "server": "134.195.196.221", "port": "8118", "type": "ss"}
+  - {name": "[02-05]-🇯🇵-日本-122-jp-am48-6.eqnode.net", "server": "jp-am48-6.eqnode.net", "port": "8081", "type": "ssr", "cipher": "aes-256-cfb", "password": "eAokbaDN6", "protocol": "origin", "obfs": "tls1.2_ticket_auth"}
+  - {name": "[02-05]-🇺🇸-美国-121-146.190.87.59", "server": "146.190.87.59", "port": "56674", "type": "trojan", "password": "订阅内容解析错误fGahrYudYD", "skip-cert-verify": "false", "udp": "true"}
+  - {name": "[02-05]-🇯🇵-日本-120-43.201.33.9", "server": "43.201.33.9", "port": "443", "type": "ssr", "cipher": "aes-256-cfb", "password": "vyunme", "protocol": "auth_aes128_sha1", "obfs": "plain"}
+  - {name": "[02-05]-🇦🇶-本机地址-119-t3.freegradely.xyz", "server": "t3.freegradely.xyz", "port": "40044", "type": "ssr", "cipher": "rc4-md5", "password": "dongtaiwang.com", "protocol": "origin", "obfs": "plain"}
+  - {name": "[02-05]-🇺🇸-美国华盛顿-118-38.143.66.87", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.143.66.87", "port": "3389", "type": "ss"}
+  - {name": "[02-05]-🇺🇸-美国华盛顿-117-38.86.135.36", "cipher": "aes-256-gcm", "password": "FoOiGlkAA9yPEGP", "server": "38.86.135.36", "port": "7306", "type": "ss"}
+  - {name": "[02-05]-🇺🇸-美国-116-141.193.68.81", "server": "141.193.68.81", "port": "443", "type": "trojan", "password": "订阅内容解析错误29ea82cf-f956-42b2-a5dc-35feea39e7ff", "skip-cert-verify": "false", "udp": "true"}
+  - {name": "[02-05]-🇬🇧-英国-115-217.138.193.10", "cipher": "chacha20-ietf-poly1305", "password": "GyBwPWH3Vao", "server": "217.138.193.10", "port": "810", "type": "ss"}
+  - {name": "[02-05]-🇳🇱-荷兰-114-213.183.59.214", "cipher": "aes-256-cfb", "password": "BwcAUZk8hUFAkDGN", "server": "213.183.59.214", "port": "9031", "type": "ss"}
+  - {name": "[02-05]-🇷🇴-罗马尼亚-113-37.120.192.158", "cipher": "chacha20-ietf-poly1305", "password": "GyBwPWH3Vao", "server": "37.120.192.158", "port": "806", "type": "ss"}
+  - {name": "[02-05]-🇺🇸-美国华盛顿-112-38.143.66.87", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.143.66.87", "port": "5000", "type": "ss"}
+  - {name": "[02-05]-🇬🇧-英国-111-176.97.67.144", "cipher": "chacha20-ietf-poly1305", "password": "0ZxXUddK85ET", "server": "176.97.67.144", "port": "444", "type": "ss"}
   - {name": "[02-05]-🇺🇸-美国华盛顿-110-38.91.107.16", "cipher": "aes-256-gcm", "password": "cdBIDV42DCwnfIN", "server": "38.91.107.16", "port": "8118", "type": "ss"}
   - {name": "[02-05]-🇦🇶-广西河池市-109-tg_mfbpn_pr4.52vpn.eu.org", "server": "tg_mfbpn_pr4.52vpn.eu.org", "port": "16831", "type": "ssr", "cipher": "aes-256-cfb", "password": "k3U8z2ZGi78D", "protocol": "auth_aes128_md5", "obfs": "tls1.2_ticket_auth"}
   - {name": "[02-05]-🇦🇶-广西河池市-108-tg_mfbpn_pr4.52vpn.eu.org", "server": "tg_mfbpn_pr4.52vpn.eu.org", "port": "16830", "type": "ssr", "cipher": "aes-256-cfb", "password": "k3U8z2ZGi78D", "protocol": "auth_aes128_md5", "obfs": "tls1.2_ticket_auth"}
@@ -243,7 +243,7 @@ proxies:
   - {name": "[02-05]-🇺🇸-美国-015-45.78.5.173", "cipher": "aes-256-gcm", "password": "5AsJpT36WpdWbv5r", "server": "45.78.5.173", "port": "57998", "type": "ss"}
   - {name": "[02-05]-🇺🇸-美国华盛顿-014-38.68.134.85", "cipher": "aes-256-gcm", "password": "Y6R9pAtvxxzmGC", "server": "38.68.134.85", "port": "5000", "type": "ss"}
   - {name": "[02-05]-🇦🇶-本机地址-013-01.node.vmssr.info", "cipher": "chacha20-ietf-poly1305", "password": "5421dd46-3d94-4495-b471-46f31db299a1", "server": "01.node.vmssr.info", "port": "31101", "type": "ss"}
-  - {name": "[02-05]-🇨🇦-加拿大-012-bjct.xsus.link", "cipher": "aes-256-gcm", "password": "669c11f6-9e41-4fcf-9800-02b302edd1f8", "server": "bjct.xsus.link", "port": "10070", "type": "ss"}
+  - {name": "[02-05]-🇳🇱-荷兰-012-bjct.xsus.link", "cipher": "aes-256-gcm", "password": "669c11f6-9e41-4fcf-9800-02b302edd1f8", "server": "bjct.xsus.link", "port": "10070", "type": "ss"}
   - {name": "[02-05]-🇦🇶-本机地址-011-hbcu.lele233.top", "cipher": "aes-256-gcm", "password": "50491486-e5c6-40e3-9b5f-d21a5426914f", "server": "hbcu.lele233.top", "port": "16157", "type": "ss"}
   - {name": "[02-05]-🇯🇵-日本-010-193.38.139.203", "cipher": "chacha20-ietf-poly1305", "password": "GyBwPWH3Vao", "server": "193.38.139.203", "port": "809", "type": "ss"}
   - {name": "[02-05]-🇦🇶-保加利亚-009-213.183.63.218", "cipher": "aes-256-cfb", "password": "c3NtHJ5ujV2tGDfj", "server": "213.183.63.218", "port": "9084", "type": "ss"}
