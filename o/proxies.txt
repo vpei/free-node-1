@@ -227,31 +227,31 @@ proxies:
   - {name: '[02-09]-🇺🇸-美国-031-us.nekorock.me', cipher: aes-256-gcm, password: bffd2c2e-d54c-4d1c-b034-9805279d23be, server: us.nekorock.me, port: 5555, type: ss}
   - {name: '[02-09]-🇳🇱-荷兰-030-185.246.155.35', cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX, server: 185.246.155.35, port: 9045, type: ss}
   - {name: '[02-09]-🇺🇸-美国-029-161.97.66.81', cipher: chacha20-ietf-poly1305, password: E4gyHkKwJGyG, server: 161.97.66.81, port: 443, type: ss}
-  - {name: '[02-09]-🇮🇹-意大利-028-gzyd.jcnode.top', cipher: aes-256-gcm, password: ee4af95b-11da-4f10-9064-e6e5d75621b9, server: gzyd.jcnode.top, port: 40002, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-027-zf-shdx.syjd.xyz', cipher: aes-128-gcm, password: 51eebef7-beaa-417b-9584-2794d10377c9, server: zf-shdx.syjd.xyz, port: 34500, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-026-piniasg01.abbblog.xyz', cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70, server: piniasg01.abbblog.xyz, port: 37909, type: ss}
-  - {name: '[02-09]-🇺🇸-美国-025-162.251.61.221', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 162.251.61.221, port: 801, type: ss}
-  - {name: '[02-09]-🇳🇱-荷兰-024-213.183.59.190', cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, server: 213.183.59.190, port: 9005, type: ss}
-  - {name: '[02-09]-🇳🇱-荷兰-023-213.183.59.206', cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, server: 213.183.59.206, port: 9037, type: ss}
-  - {name: '[02-09]-🇸🇪-瑞典-022-167.88.61.60', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 167.88.61.60, port: 3389, type: ss}
-  - {name: '[02-09]-🇺🇸-美国华盛顿-021-38.91.107.16', cipher: aes-256-gcm, password: e4FCWrgpkji3QY, server: 38.91.107.16, port: 9101, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-020-01.node.vmssr.info', cipher: chacha20-ietf-poly1305, password: 1b1079ec-03ca-426f-a2c4-9863c6e959d7, server: 01.node.vmssr.info, port: 31101, type: ss}
-  - {name: '[02-09]-🇳🇱-荷兰-019-213.183.59.214', cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, server: 213.183.59.214, port: 9060, type: ss}
-  - {name: '[02-09]-🇸🇬-新加坡-018-217.197.161.166', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 217.197.161.166, port: 805, type: ss}
-  - {name: '[02-09]-🇳🇱-荷兰-017-213.183.51.172', cipher: aes-256-cfb, password: daFYagqDdBdA6VTX, server: 213.183.51.172, port: 9073, type: ss}
-  - {name: '[02-09]-🇺🇸-美国-016-45.78.5.173', cipher: aes-256-gcm, password: 5AsJpT36WpdWbv5r, server: 45.78.5.173, port: 57998, type: ss}
-  - {name: '[02-09]-🇺🇸-美国华盛顿-015-38.68.134.85', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.68.134.85, port: 5000, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-014-01.node.vmssr.info', cipher: chacha20-ietf-poly1305, password: 5421dd46-3d94-4495-b471-46f31db299a1, server: 01.node.vmssr.info, port: 31101, type: ss}
-  - {name: '[02-09]-🇳🇱-荷兰-013-bjct.xsus.link', cipher: aes-256-gcm, password: 669c11f6-9e41-4fcf-9800-02b302edd1f8, server: bjct.xsus.link, port: 10070, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-012-hbcu.lele233.top', cipher: aes-256-gcm, password: 50491486-e5c6-40e3-9b5f-d21a5426914f, server: hbcu.lele233.top, port: 16157, type: ss}
-  - {name: '[02-09]-🇯🇵-日本-011-193.38.139.203', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 193.38.139.203, port: 809, type: ss}
-  - {name: '[02-09]-🇦🇶-保加利亚-010-213.183.63.218', cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, server: 213.183.63.218, port: 9084, type: ss}
-  - {name: '[02-09]-🇺🇸-美国华盛顿-009-38.68.134.85', cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, server: 38.68.134.85, port: 443, type: ss}
-  - {name: '[02-09]-🇳🇱-荷兰-008-213.183.59.190', cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, server: 213.183.59.190, port: 9024, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-007-01.node.vmssr.info', cipher: chacha20-ietf-poly1305, password: 46016d70-be45-40a8-a833-6ea1b9ed8a50, server: 01.node.vmssr.info, port: 31101, type: ss}
-  - {name: '[02-09]-🇺🇸-美国华盛顿-006-38.114.114.67', cipher: aes-256-gcm, password: e4FCWrgpkji3QY, server: 38.114.114.67, port: 9101, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-005-edge-earth.themars.top', cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0, server: edge-earth.themars.top, port: 50004, type: ss}
-  - {name: '[02-09]-🇷🇺-俄罗斯-004-217.30.10.63', cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, server: 217.30.10.63, port: 9050, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-003-00.node.vmssr.info', cipher: chacha20-ietf-poly1305, password: 46016d70-be45-40a8-a833-6ea1b9ed8a50, server: 00.node.vmssr.info, port: 26601, type: ss}
-  - {name: '[02-09]-🇦🇶-保加利亚-002-213.183.63.221', cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, server: 213.183.63.221, port: 9060, type: ss}
-  - {name: '[02-09]-🇦🇶-本机地址-001-hbcu.lele233.top', cipher: aes-256-gcm, password: 29815f4c-ea03-4b2a-9d6e-d544f0bc7655, server: hbcu.lele233.top, port: 16157, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-028-zf-shdx.syjd.xyz', cipher: aes-128-gcm, password: 51eebef7-beaa-417b-9584-2794d10377c9, server: zf-shdx.syjd.xyz, port: 34500, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-027-piniasg01.abbblog.xyz', cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70, server: piniasg01.abbblog.xyz, port: 37909, type: ss}
+  - {name: '[02-09]-🇺🇸-美国-026-162.251.61.221', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 162.251.61.221, port: 801, type: ss}
+  - {name: '[02-09]-🇳🇱-荷兰-025-213.183.59.190', cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, server: 213.183.59.190, port: 9005, type: ss}
+  - {name: '[02-09]-🇳🇱-荷兰-024-213.183.59.206', cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, server: 213.183.59.206, port: 9037, type: ss}
+  - {name: '[02-09]-🇸🇪-瑞典-023-167.88.61.60', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 167.88.61.60, port: 3389, type: ss}
+  - {name: '[02-09]-🇺🇸-美国华盛顿-022-38.91.107.16', cipher: aes-256-gcm, password: e4FCWrgpkji3QY, server: 38.91.107.16, port: 9101, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-021-01.node.vmssr.info', cipher: chacha20-ietf-poly1305, password: 1b1079ec-03ca-426f-a2c4-9863c6e959d7, server: 01.node.vmssr.info, port: 31101, type: ss}
+  - {name: '[02-09]-🇳🇱-荷兰-020-213.183.59.214', cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, server: 213.183.59.214, port: 9060, type: ss}
+  - {name: '[02-09]-🇸🇬-新加坡-019-217.197.161.166', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 217.197.161.166, port: 805, type: ss}
+  - {name: '[02-09]-🇳🇱-荷兰-018-213.183.51.172', cipher: aes-256-cfb, password: daFYagqDdBdA6VTX, server: 213.183.51.172, port: 9073, type: ss}
+  - {name: '[02-09]-🇺🇸-美国-017-45.78.5.173', cipher: aes-256-gcm, password: 5AsJpT36WpdWbv5r, server: 45.78.5.173, port: 57998, type: ss}
+  - {name: '[02-09]-🇺🇸-美国华盛顿-016-38.68.134.85', cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, server: 38.68.134.85, port: 5000, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-015-01.node.vmssr.info', cipher: chacha20-ietf-poly1305, password: 5421dd46-3d94-4495-b471-46f31db299a1, server: 01.node.vmssr.info, port: 31101, type: ss}
+  - {name: '[02-09]-🇺🇸-美国-014-bjct.xsus.link', cipher: aes-256-gcm, password: 669c11f6-9e41-4fcf-9800-02b302edd1f8, server: bjct.xsus.link, port: 10070, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-013-hbcu.lele233.top', cipher: aes-256-gcm, password: 50491486-e5c6-40e3-9b5f-d21a5426914f, server: hbcu.lele233.top, port: 16157, type: ss}
+  - {name: '[02-09]-🇯🇵-日本-012-193.38.139.203', cipher: chacha20-ietf-poly1305, password: GyBwPWH3Vao, server: 193.38.139.203, port: 809, type: ss}
+  - {name: '[02-09]-🇦🇶-保加利亚-011-213.183.63.218', cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, server: 213.183.63.218, port: 9084, type: ss}
+  - {name: '[02-09]-🇺🇸-美国华盛顿-010-38.68.134.85', cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, server: 38.68.134.85, port: 443, type: ss}
+  - {name: '[02-09]-🇳🇱-荷兰-009-213.183.59.190', cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, server: 213.183.59.190, port: 9024, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-008-01.node.vmssr.info', cipher: chacha20-ietf-poly1305, password: 46016d70-be45-40a8-a833-6ea1b9ed8a50, server: 01.node.vmssr.info, port: 31101, type: ss}
+  - {name: '[02-09]-🇺🇸-美国华盛顿-007-38.114.114.67', cipher: aes-256-gcm, password: e4FCWrgpkji3QY, server: 38.114.114.67, port: 9101, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-006-edge-earth.themars.top', cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0, server: edge-earth.themars.top, port: 50004, type: ss}
+  - {name: '[02-09]-🇷🇺-俄罗斯-005-217.30.10.63', cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, server: 217.30.10.63, port: 9050, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-004-00.node.vmssr.info', cipher: chacha20-ietf-poly1305, password: 46016d70-be45-40a8-a833-6ea1b9ed8a50, server: 00.node.vmssr.info, port: 26601, type: ss}
+  - {name: '[02-09]-🇦🇶-保加利亚-003-213.183.63.221', cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, server: 213.183.63.221, port: 9060, type: ss}
+  - {name: '[02-09]-🇦🇶-本机地址-002-hbcu.lele233.top', cipher: aes-256-gcm, password: 29815f4c-ea03-4b2a-9d6e-d544f0bc7655, server: hbcu.lele233.top, port: 16157, type: ss}
+  - {name: '[02-09]-🇳🇱-荷兰-001-213.183.59.206', cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq, server: 213.183.59.206, port: 9006, type: ss}
