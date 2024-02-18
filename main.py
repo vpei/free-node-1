@@ -40,7 +40,7 @@ print('menu: ' + menu)
 # menu = 'allclash'
 # 配置信息和同步本地需要更新的资源文件
 # resurl = "http://127.0.0.1/"
-resurl = 'https://aipfs.dns.army/ipns/k51qzi5uqu5dgiinzrr0r5xnq55uhoy6ytf0m1d27z655ha2mvljqyjybrj2xz/'
+resurl = 'https://aipfs.dns.army/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/'
 errnode = ''
 
 # 对程序的基本信息进行下载更新，下载IPFS网关信息和过滤列表信息
